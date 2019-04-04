@@ -46699,5 +46699,9166 @@
         "FI": "F"
       }
     ]
+  },
+  {
+    "LibelleColl": "DEPARTEMENT DE LA GIRONDE",
+    "Nomenclature": "M52-M52",
+    "NatDec": "09",
+    "Exer": 2018,
+    "IdColl": "22330001300016",
+    "rows": [
+      {
+        "Nature": "204141",
+        "Fonction": "928",
+        "CodRD": "D",
+        "MtReal": 358840.29,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "65734",
+        "Fonction": "928",
+        "CodRD": "D",
+        "MtReal": 30974.24,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "64112",
+        "Fonction": "70",
+        "CodRD": "D",
+        "MtReal": 19024.73,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "62878",
+        "Fonction": "023",
+        "CodRD": "D",
+        "MtReal": 677.64,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "61558",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 21374.96,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "64118",
+        "Fonction": "221",
+        "CodRD": "D",
+        "MtReal": 3839065.93,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "6228",
+        "Fonction": "221",
+        "CodRD": "D",
+        "MtReal": 1100000,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "7362",
+        "Fonction": "01",
+        "CodRD": "R",
+        "MtReal": 867148.74,
+        "Chapitre": "73",
+        "FI": "F"
+      },
+      {
+        "Nature": "6541",
+        "Fonction": "64",
+        "CodRD": "D",
+        "MtReal": 5060.07,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6064",
+        "Fonction": "023",
+        "CodRD": "D",
+        "MtReal": 26319.6,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "7711",
+        "Fonction": "0202",
+        "CodRD": "R",
+        "MtReal": 2900,
+        "Chapitre": "77",
+        "FI": "F"
+      },
+      {
+        "Nature": "62268",
+        "Fonction": "52",
+        "CodRD": "D",
+        "MtReal": 58864.29,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "16449",
+        "Fonction": "01",
+        "CodRD": "D",
+        "MtReal": 56075720.86,
+        "Chapitre": "16",
+        "FI": "I"
+      },
+      {
+        "Nature": "61521",
+        "Fonction": "33",
+        "CodRD": "D",
+        "MtReal": 52616.66,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6522",
+        "Fonction": "538",
+        "CodRD": "D",
+        "MtReal": 144477.17,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6451",
+        "Fonction": "28",
+        "CodRD": "D",
+        "MtReal": 2990.86,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "617",
+        "Fonction": "928",
+        "CodRD": "D",
+        "MtReal": 22437.42,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "61521",
+        "Fonction": "738",
+        "CodRD": "D",
+        "MtReal": 486456.63,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "70878",
+        "Fonction": "0201",
+        "CodRD": "R",
+        "MtReal": 138282,
+        "Chapitre": "70",
+        "FI": "F"
+      },
+      {
+        "Nature": "70848",
+        "Fonction": "0201",
+        "CodRD": "R",
+        "MtReal": 1204522.64,
+        "Chapitre": "70",
+        "FI": "F"
+      },
+      {
+        "Nature": "65662",
+        "Fonction": "564",
+        "CodRD": "D",
+        "MtReal": 48271.41,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "21848",
+        "Fonction": "738",
+        "CodRD": "D",
+        "MtReal": 5972.87,
+        "Chapitre": "21",
+        "FI": "I"
+      },
+      {
+        "Nature": "64111",
+        "Fonction": "221",
+        "CodRD": "D",
+        "MtReal": 18347065,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "21314",
+        "Fonction": "313",
+        "CodRD": "D",
+        "MtReal": 2437277.15,
+        "Chapitre": "21",
+        "FI": "I"
+      },
+      {
+        "Nature": "6479",
+        "Fonction": "621",
+        "CodRD": "R",
+        "MtReal": 177277.64,
+        "Chapitre": "013",
+        "FI": "F"
+      },
+      {
+        "Nature": "6336",
+        "Fonction": "70",
+        "CodRD": "D",
+        "MtReal": 19828.95,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "7327",
+        "Fonction": "738",
+        "CodRD": "R",
+        "MtReal": 16360051.31,
+        "Chapitre": "73",
+        "FI": "F"
+      },
+      {
+        "Nature": "6281",
+        "Fonction": "91",
+        "CodRD": "D",
+        "MtReal": 1000,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6336",
+        "Fonction": "566",
+        "CodRD": "D",
+        "MtReal": 26997.33,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "21831",
+        "Fonction": "21",
+        "CodRD": "D",
+        "MtReal": 149539.7,
+        "Chapitre": "21",
+        "FI": "I"
+      },
+      {
+        "Nature": "64168",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 192,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "6534",
+        "Fonction": "021",
+        "CodRD": "D",
+        "MtReal": 714789,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "7718",
+        "Fonction": "621",
+        "CodRD": "R",
+        "MtReal": 91887.95,
+        "Chapitre": "77",
+        "FI": "F"
+      },
+      {
+        "Nature": "64111",
+        "Fonction": "90",
+        "CodRD": "D",
+        "MtReal": 2587414.58,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "65111",
+        "Fonction": "51",
+        "CodRD": "D",
+        "MtReal": 16823052.91,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "231312",
+        "Fonction": "221",
+        "CodRD": "D",
+        "MtReal": 18135044.79,
+        "Chapitre": "23",
+        "FI": "I"
+      },
+      {
+        "Nature": "7718",
+        "Fonction": "72",
+        "CodRD": "R",
+        "MtReal": 73140.9,
+        "Chapitre": "77",
+        "FI": "F"
+      },
+      {
+        "Nature": "74788",
+        "Fonction": "0201",
+        "CodRD": "R",
+        "MtReal": 12833.34,
+        "Chapitre": "74",
+        "FI": "F"
+      },
+      {
+        "Nature": "6713",
+        "Fonction": "738",
+        "CodRD": "D",
+        "MtReal": 9000,
+        "Chapitre": "67",
+        "FI": "F"
+      },
+      {
+        "Nature": "6156",
+        "Fonction": "621",
+        "CodRD": "D",
+        "MtReal": 17174.76,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "617",
+        "Fonction": "621",
+        "CodRD": "D",
+        "MtReal": 5000,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6525",
+        "Fonction": "538",
+        "CodRD": "D",
+        "MtReal": 9985.44,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "7461",
+        "Fonction": "01",
+        "CodRD": "R",
+        "MtReal": 8648174.06,
+        "Chapitre": "74",
+        "FI": "F"
+      },
+      {
+        "Nature": "7327",
+        "Fonction": "71",
+        "CodRD": "R",
+        "MtReal": 58094,
+        "Chapitre": "73",
+        "FI": "F"
+      },
+      {
+        "Nature": "64112",
+        "Fonction": "566",
+        "CodRD": "D",
+        "MtReal": 20168.71,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "204142",
+        "Fonction": "71",
+        "CodRD": "D",
+        "MtReal": 997,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "60628",
+        "Fonction": "538",
+        "CodRD": "D",
+        "MtReal": 364.18,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6168",
+        "Fonction": "50",
+        "CodRD": "D",
+        "MtReal": 46722,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6065",
+        "Fonction": "311",
+        "CodRD": "D",
+        "MtReal": 260655.21,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6281",
+        "Fonction": "72",
+        "CodRD": "D",
+        "MtReal": 70352.53,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6068",
+        "Fonction": "32",
+        "CodRD": "D",
+        "MtReal": 74389.43,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6542",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 454.54,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6218",
+        "Fonction": "50",
+        "CodRD": "D",
+        "MtReal": 75980.21,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "6336",
+        "Fonction": "52",
+        "CodRD": "D",
+        "MtReal": 24167.03,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "6132",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 1022452.02,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "65862",
+        "Fonction": "01",
+        "CodRD": "D",
+        "MtReal": 352.54,
+        "Chapitre": "6586",
+        "FI": "F"
+      },
+      {
+        "Nature": "6182",
+        "Fonction": "023",
+        "CodRD": "D",
+        "MtReal": 11646.6,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6245",
+        "Fonction": "51",
+        "CodRD": "D",
+        "MtReal": 397498.25,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6574",
+        "Fonction": "58",
+        "CodRD": "D",
+        "MtReal": 6098222,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6283",
+        "Fonction": "621",
+        "CodRD": "D",
+        "MtReal": 31580.65,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "65738",
+        "Fonction": "538",
+        "CodRD": "D",
+        "MtReal": 259278,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6514",
+        "Fonction": "58",
+        "CodRD": "D",
+        "MtReal": 1446888.9400000002,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6183",
+        "Fonction": "221",
+        "CodRD": "D",
+        "MtReal": 6480,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "204141",
+        "Fonction": "61",
+        "CodRD": "D",
+        "MtReal": 33308,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "6281",
+        "Fonction": "315",
+        "CodRD": "D",
+        "MtReal": 85,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6451",
+        "Fonction": "0201",
+        "CodRD": "D",
+        "MtReal": 5057318.29,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "6718",
+        "Fonction": "51",
+        "CodRD": "D",
+        "MtReal": 790000,
+        "Chapitre": "67",
+        "FI": "F"
+      },
+      {
+        "Nature": "61558",
+        "Fonction": "32",
+        "CodRD": "D",
+        "MtReal": 2479.88,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6414",
+        "Fonction": "52",
+        "CodRD": "D",
+        "MtReal": 29597.59,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "7788",
+        "Fonction": "50",
+        "CodRD": "R",
+        "MtReal": 35771.22,
+        "Chapitre": "77",
+        "FI": "F"
+      },
+      {
+        "Nature": "74123",
+        "Fonction": "01",
+        "CodRD": "R",
+        "MtReal": 4655335,
+        "Chapitre": "74",
+        "FI": "F"
+      },
+      {
+        "Nature": "21838",
+        "Fonction": "021",
+        "CodRD": "D",
+        "MtReal": 3672.71,
+        "Chapitre": "21",
+        "FI": "I"
+      },
+      {
+        "Nature": "204142",
+        "Fonction": "738",
+        "CodRD": "R",
+        "MtReal": 120,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "73125",
+        "Fonction": "01",
+        "CodRD": "R",
+        "MtReal": 19343656,
+        "Chapitre": "731",
+        "FI": "F"
+      },
+      {
+        "Nature": "6281",
+        "Fonction": "50",
+        "CodRD": "D",
+        "MtReal": 4950,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6188",
+        "Fonction": "32",
+        "CodRD": "D",
+        "MtReal": 73919.54,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "64111",
+        "Fonction": "738",
+        "CodRD": "D",
+        "MtReal": 548365.07,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "6817",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 300000,
+        "Chapitre": "68",
+        "FI": "F"
+      },
+      {
+        "Nature": "7474",
+        "Fonction": "93",
+        "CodRD": "R",
+        "MtReal": 10000,
+        "Chapitre": "74",
+        "FI": "F"
+      },
+      {
+        "Nature": "65733",
+        "Fonction": "738",
+        "CodRD": "D",
+        "MtReal": 9719.74,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "70848",
+        "Fonction": "52",
+        "CodRD": "R",
+        "MtReal": 4773474.2,
+        "Chapitre": "70",
+        "FI": "F"
+      },
+      {
+        "Nature": "74718",
+        "Fonction": "738",
+        "CodRD": "R",
+        "MtReal": 28268,
+        "Chapitre": "74",
+        "FI": "F"
+      },
+      {
+        "Nature": "204142",
+        "Fonction": "738",
+        "CodRD": "D",
+        "MtReal": 302876.74,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "60633",
+        "Fonction": "621",
+        "CodRD": "D",
+        "MtReal": 1635079.76,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "16811",
+        "Fonction": "01",
+        "CodRD": "D",
+        "MtReal": 1333333.33,
+        "Chapitre": "16",
+        "FI": "I"
+      },
+      {
+        "Nature": "60662",
+        "Fonction": "42",
+        "CodRD": "D",
+        "MtReal": 166719.18,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6417",
+        "Fonction": "221",
+        "CodRD": "D",
+        "MtReal": 65241.18,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "6454",
+        "Fonction": "50",
+        "CodRD": "D",
+        "MtReal": 222913.79,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "617",
+        "Fonction": "72",
+        "CodRD": "D",
+        "MtReal": 279773.06,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "64112",
+        "Fonction": "738",
+        "CodRD": "D",
+        "MtReal": 5283.78,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "6541",
+        "Fonction": "58",
+        "CodRD": "D",
+        "MtReal": 280,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6225",
+        "Fonction": "90",
+        "CodRD": "D",
+        "MtReal": 2.11,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6231",
+        "Fonction": "928",
+        "CodRD": "D",
+        "MtReal": 1308,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "7081",
+        "Fonction": "621",
+        "CodRD": "R",
+        "MtReal": 992.8,
+        "Chapitre": "70",
+        "FI": "F"
+      },
+      {
+        "Nature": "65734",
+        "Fonction": "041",
+        "CodRD": "D",
+        "MtReal": 116235,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "7478142",
+        "Fonction": "532",
+        "CodRD": "R",
+        "MtReal": 3195262.2,
+        "Chapitre": "74",
+        "FI": "F"
+      },
+      {
+        "Nature": "65734",
+        "Fonction": "72",
+        "CodRD": "D",
+        "MtReal": 94183,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "7588",
+        "Fonction": "0201",
+        "CodRD": "R",
+        "MtReal": 2099.16,
+        "Chapitre": "75",
+        "FI": "F"
+      },
+      {
+        "Nature": "64111",
+        "Fonction": "70",
+        "CodRD": "D",
+        "MtReal": 1772288.65,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "64113",
+        "Fonction": "0201",
+        "CodRD": "D",
+        "MtReal": 165010.64,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "6568",
+        "Fonction": "42",
+        "CodRD": "D",
+        "MtReal": 145751.14,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6261",
+        "Fonction": "553",
+        "CodRD": "D",
+        "MtReal": 21516.68,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "64112",
+        "Fonction": "20",
+        "CodRD": "D",
+        "MtReal": 15278.66,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "7081",
+        "Fonction": "40",
+        "CodRD": "R",
+        "MtReal": 350.4,
+        "Chapitre": "70",
+        "FI": "F"
+      },
+      {
+        "Nature": "6453",
+        "Fonction": "20",
+        "CodRD": "D",
+        "MtReal": 264062.42,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "204141",
+        "Fonction": "311",
+        "CodRD": "D",
+        "MtReal": 2146,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "6231",
+        "Fonction": "621",
+        "CodRD": "D",
+        "MtReal": 5504.3,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6473",
+        "Fonction": "0201",
+        "CodRD": "D",
+        "MtReal": 51253.55,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "65512",
+        "Fonction": "221",
+        "CodRD": "D",
+        "MtReal": 7569736.22,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6451",
+        "Fonction": "90",
+        "CodRD": "D",
+        "MtReal": 519950,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "21848",
+        "Fonction": "50",
+        "CodRD": "D",
+        "MtReal": 165628.84000000003,
+        "Chapitre": "21",
+        "FI": "I"
+      },
+      {
+        "Nature": "65737",
+        "Fonction": "28",
+        "CodRD": "D",
+        "MtReal": 85500,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "2031",
+        "Fonction": "21",
+        "CodRD": "D",
+        "MtReal": 694908.82,
+        "Chapitre": "20",
+        "FI": "I"
+      },
+      {
+        "Nature": "6718",
+        "Fonction": "313",
+        "CodRD": "D",
+        "MtReal": 12594.84,
+        "Chapitre": "67",
+        "FI": "F"
+      },
+      {
+        "Nature": "65821",
+        "Fonction": "33",
+        "CodRD": "D",
+        "MtReal": 1479020,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "1332",
+        "Fonction": "221",
+        "CodRD": "R",
+        "MtReal": 5409872,
+        "Chapitre": "13",
+        "FI": "I"
+      },
+      {
+        "Nature": "7081",
+        "Fonction": "52",
+        "CodRD": "R",
+        "MtReal": 487.29,
+        "Chapitre": "70",
+        "FI": "F"
+      },
+      {
+        "Nature": "6417",
+        "Fonction": "90",
+        "CodRD": "D",
+        "MtReal": 3031.41,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "6419",
+        "Fonction": "30",
+        "CodRD": "R",
+        "MtReal": 21685.11,
+        "Chapitre": "013",
+        "FI": "F"
+      },
+      {
+        "Nature": "2031",
+        "Fonction": "51",
+        "CodRD": "D",
+        "MtReal": 15396.04,
+        "Chapitre": "20",
+        "FI": "I"
+      },
+      {
+        "Nature": "617",
+        "Fonction": "61",
+        "CodRD": "D",
+        "MtReal": 463130,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "60668",
+        "Fonction": "61",
+        "CodRD": "D",
+        "MtReal": 1098.96,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "74122",
+        "Fonction": "01",
+        "CodRD": "R",
+        "MtReal": 24046802,
+        "Chapitre": "74",
+        "FI": "F"
+      },
+      {
+        "Nature": "6355",
+        "Fonction": "621",
+        "CodRD": "D",
+        "MtReal": 20394.24,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6561",
+        "Fonction": "91",
+        "CodRD": "D",
+        "MtReal": 734570,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6231",
+        "Fonction": "023",
+        "CodRD": "D",
+        "MtReal": 917485.15,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "16441",
+        "Fonction": "01",
+        "CodRD": "R",
+        "MtReal": 10000000,
+        "Chapitre": "16",
+        "FI": "I"
+      },
+      {
+        "Nature": "65738",
+        "Fonction": "61",
+        "CodRD": "D",
+        "MtReal": 159595.54,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "7476",
+        "Fonction": "42",
+        "CodRD": "R",
+        "MtReal": 2061037,
+        "Chapitre": "74",
+        "FI": "F"
+      },
+      {
+        "Nature": "7688",
+        "Fonction": "01",
+        "CodRD": "R",
+        "MtReal": 68555.2,
+        "Chapitre": "76",
+        "FI": "F"
+      },
+      {
+        "Nature": "6574",
+        "Fonction": "048",
+        "CodRD": "D",
+        "MtReal": 53330,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6234",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 62490.41,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "7533",
+        "Fonction": "551",
+        "CodRD": "R",
+        "MtReal": 129468.18,
+        "Chapitre": "016",
+        "FI": "F"
+      },
+      {
+        "Nature": "64111",
+        "Fonction": "550",
+        "CodRD": "D",
+        "MtReal": 3381718.38,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "773",
+        "Fonction": "0202",
+        "CodRD": "R",
+        "MtReal": 1918.87,
+        "Chapitre": "77",
+        "FI": "F"
+      },
+      {
+        "Nature": "6236",
+        "Fonction": "58",
+        "CodRD": "D",
+        "MtReal": 2376,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6574",
+        "Fonction": "621",
+        "CodRD": "D",
+        "MtReal": 1088,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6241",
+        "Fonction": "621",
+        "CodRD": "D",
+        "MtReal": 360,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "21838",
+        "Fonction": "315",
+        "CodRD": "D",
+        "MtReal": 6359.7,
+        "Chapitre": "21",
+        "FI": "I"
+      },
+      {
+        "Nature": "6245",
+        "Fonction": "041",
+        "CodRD": "D",
+        "MtReal": 863.55,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "64121",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 31730.32,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "64131",
+        "Fonction": "70",
+        "CodRD": "D",
+        "MtReal": 201490.71,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "752",
+        "Fonction": "11",
+        "CodRD": "R",
+        "MtReal": 65733.67,
+        "Chapitre": "75",
+        "FI": "F"
+      },
+      {
+        "Nature": "6065",
+        "Fonction": "28",
+        "CodRD": "D",
+        "MtReal": 7911.54,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "204142",
+        "Fonction": "93",
+        "CodRD": "D",
+        "MtReal": 13709.09,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "7788",
+        "Fonction": "567",
+        "CodRD": "R",
+        "MtReal": 15926.53,
+        "Chapitre": "77",
+        "FI": "F"
+      },
+      {
+        "Nature": "6561",
+        "Fonction": "738",
+        "CodRD": "D",
+        "MtReal": 1756498.21,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "615221",
+        "Fonction": "621",
+        "CodRD": "D",
+        "MtReal": 3860.13,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "20421",
+        "Fonction": "928",
+        "CodRD": "D",
+        "MtReal": 959738.53,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "64111",
+        "Fonction": "20",
+        "CodRD": "D",
+        "MtReal": 753240.61,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "6188",
+        "Fonction": "93",
+        "CodRD": "D",
+        "MtReal": 1265,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "64111",
+        "Fonction": "40",
+        "CodRD": "D",
+        "MtReal": 6803936.85,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "7081",
+        "Fonction": "0202",
+        "CodRD": "R",
+        "MtReal": 700.8,
+        "Chapitre": "70",
+        "FI": "F"
+      },
+      {
+        "Nature": "6336",
+        "Fonction": "0201",
+        "CodRD": "D",
+        "MtReal": 250676.07,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "6454",
+        "Fonction": "20",
+        "CodRD": "D",
+        "MtReal": 16278.19,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "6511212",
+        "Fonction": "52",
+        "CodRD": "D",
+        "MtReal": 6633493.87,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6336",
+        "Fonction": "30",
+        "CodRD": "D",
+        "MtReal": 81329.89,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "6251",
+        "Fonction": "52",
+        "CodRD": "D",
+        "MtReal": 651.1,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6232",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 149382.90999999997,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "7513",
+        "Fonction": "41",
+        "CodRD": "R",
+        "MtReal": 26061.53,
+        "Chapitre": "75",
+        "FI": "F"
+      },
+      {
+        "Nature": "64111",
+        "Fonction": "50",
+        "CodRD": "D",
+        "MtReal": 24285209.8,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "21841",
+        "Fonction": "21",
+        "CodRD": "D",
+        "MtReal": 1266081,
+        "Chapitre": "21",
+        "FI": "I"
+      },
+      {
+        "Nature": "63512",
+        "Fonction": "01",
+        "CodRD": "D",
+        "MtReal": 190566.42,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "617",
+        "Fonction": "738",
+        "CodRD": "D",
+        "MtReal": 146627,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "64131",
+        "Fonction": "20",
+        "CodRD": "D",
+        "MtReal": 346779.95,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "678",
+        "Fonction": "50",
+        "CodRD": "D",
+        "MtReal": 30740.21,
+        "Chapitre": "67",
+        "FI": "F"
+      },
+      {
+        "Nature": "614",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 365450.45,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "74771",
+        "Fonction": "041",
+        "CodRD": "R",
+        "MtReal": 1187943.41,
+        "Chapitre": "74",
+        "FI": "F"
+      },
+      {
+        "Nature": "20431",
+        "Fonction": "221",
+        "CodRD": "D",
+        "MtReal": 142414.86,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "204142",
+        "Fonction": "72",
+        "CodRD": "D",
+        "MtReal": 638516,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "231318",
+        "Fonction": "621",
+        "CodRD": "D",
+        "MtReal": 498838.88,
+        "Chapitre": "23",
+        "FI": "I"
+      },
+      {
+        "Nature": "70878",
+        "Fonction": "621",
+        "CodRD": "R",
+        "MtReal": 179832.17,
+        "Chapitre": "70",
+        "FI": "F"
+      },
+      {
+        "Nature": "7022",
+        "Fonction": "738",
+        "CodRD": "R",
+        "MtReal": 136929.44,
+        "Chapitre": "70",
+        "FI": "F"
+      },
+      {
+        "Nature": "7081",
+        "Fonction": "021",
+        "CodRD": "R",
+        "MtReal": 215.35,
+        "Chapitre": "70",
+        "FI": "F"
+      },
+      {
+        "Nature": "6451",
+        "Fonction": "738",
+        "CodRD": "D",
+        "MtReal": 133973,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "6414",
+        "Fonction": "566",
+        "CodRD": "D",
+        "MtReal": 10559.52,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "7788",
+        "Fonction": "0202",
+        "CodRD": "R",
+        "MtReal": 343135.42,
+        "Chapitre": "77",
+        "FI": "F"
+      },
+      {
+        "Nature": "61558",
+        "Fonction": "94",
+        "CodRD": "D",
+        "MtReal": 37500,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "60622",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 582154.94,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "204142",
+        "Fonction": "312",
+        "CodRD": "D",
+        "MtReal": 895982.24,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "7718",
+        "Fonction": "18",
+        "CodRD": "R",
+        "MtReal": 9143.97,
+        "Chapitre": "77",
+        "FI": "F"
+      },
+      {
+        "Nature": "6225",
+        "Fonction": "30",
+        "CodRD": "D",
+        "MtReal": 874.11,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6135",
+        "Fonction": "28",
+        "CodRD": "D",
+        "MtReal": 20328,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6182",
+        "Fonction": "61",
+        "CodRD": "D",
+        "MtReal": 6799.49,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6541",
+        "Fonction": "28",
+        "CodRD": "D",
+        "MtReal": 150,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "7388",
+        "Fonction": "01",
+        "CodRD": "R",
+        "MtReal": 83353.97,
+        "Chapitre": "73",
+        "FI": "F"
+      },
+      {
+        "Nature": "6556",
+        "Fonction": "72",
+        "CodRD": "D",
+        "MtReal": 3500000,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6156",
+        "Fonction": "315",
+        "CodRD": "D",
+        "MtReal": 5800.01,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6064",
+        "Fonction": "52",
+        "CodRD": "D",
+        "MtReal": 4418.5,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6454",
+        "Fonction": "70",
+        "CodRD": "D",
+        "MtReal": 9346,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "775",
+        "Fonction": "91",
+        "CodRD": "R",
+        "MtReal": 2172460,
+        "Chapitre": "77",
+        "FI": "F"
+      },
+      {
+        "Nature": "7718",
+        "Fonction": "28",
+        "CodRD": "R",
+        "MtReal": 80,
+        "Chapitre": "77",
+        "FI": "F"
+      },
+      {
+        "Nature": "6184",
+        "Fonction": "28",
+        "CodRD": "D",
+        "MtReal": 1130,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6451",
+        "Fonction": "621",
+        "CodRD": "D",
+        "MtReal": 2550079.25,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "10222",
+        "Fonction": "01",
+        "CodRD": "R",
+        "MtReal": 16552838.82,
+        "Chapitre": "10",
+        "FI": "I"
+      },
+      {
+        "Nature": "7718",
+        "Fonction": "81",
+        "CodRD": "R",
+        "MtReal": 272593.95,
+        "Chapitre": "77",
+        "FI": "F"
+      },
+      {
+        "Nature": "6336",
+        "Fonction": "550",
+        "CodRD": "D",
+        "MtReal": 39608.01,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "6574",
+        "Fonction": "72",
+        "CodRD": "D",
+        "MtReal": 1150734.35,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6417",
+        "Fonction": "621",
+        "CodRD": "D",
+        "MtReal": 52700.56,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "64131",
+        "Fonction": "041",
+        "CodRD": "D",
+        "MtReal": 34719.1,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "773",
+        "Fonction": "58",
+        "CodRD": "R",
+        "MtReal": 39256,
+        "Chapitre": "77",
+        "FI": "F"
+      },
+      {
+        "Nature": "652416",
+        "Fonction": "51",
+        "CodRD": "D",
+        "MtReal": 16370962.82,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6479",
+        "Fonction": "566",
+        "CodRD": "R",
+        "MtReal": 17402.72,
+        "Chapitre": "013",
+        "FI": "F"
+      },
+      {
+        "Nature": "23151",
+        "Fonction": "621",
+        "CodRD": "R",
+        "MtReal": 95183,
+        "Chapitre": "23",
+        "FI": "I"
+      },
+      {
+        "Nature": "1324",
+        "Fonction": "621",
+        "CodRD": "R",
+        "MtReal": 1070545.3,
+        "Chapitre": "13",
+        "FI": "I"
+      },
+      {
+        "Nature": "652412",
+        "Fonction": "51",
+        "CodRD": "D",
+        "MtReal": 104915184,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6262",
+        "Fonction": "52",
+        "CodRD": "D",
+        "MtReal": 108,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "64113",
+        "Fonction": "30",
+        "CodRD": "D",
+        "MtReal": 43215.38,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "637",
+        "Fonction": "023",
+        "CodRD": "D",
+        "MtReal": 6427.53,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "773",
+        "Fonction": "28",
+        "CodRD": "R",
+        "MtReal": 9100,
+        "Chapitre": "77",
+        "FI": "F"
+      },
+      {
+        "Nature": "6511211",
+        "Fonction": "52",
+        "CodRD": "D",
+        "MtReal": 79793142.15,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6533",
+        "Fonction": "021",
+        "CodRD": "D",
+        "MtReal": 224864.26,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "64113",
+        "Fonction": "621",
+        "CodRD": "D",
+        "MtReal": 70488.9,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "64126",
+        "Fonction": "51",
+        "CodRD": "D",
+        "MtReal": 63821.48,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "62878",
+        "Fonction": "51",
+        "CodRD": "D",
+        "MtReal": 42338.979999999996,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6135",
+        "Fonction": "621",
+        "CodRD": "D",
+        "MtReal": 84312.03,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "747812",
+        "Fonction": "52",
+        "CodRD": "R",
+        "MtReal": 15848176.84,
+        "Chapitre": "74",
+        "FI": "F"
+      },
+      {
+        "Nature": "1321",
+        "Fonction": "621",
+        "CodRD": "R",
+        "MtReal": 525422.15,
+        "Chapitre": "13",
+        "FI": "I"
+      },
+      {
+        "Nature": "673",
+        "Fonction": "821",
+        "CodRD": "D",
+        "MtReal": 381835.23,
+        "Chapitre": "67",
+        "FI": "F"
+      },
+      {
+        "Nature": "6262",
+        "Fonction": "221",
+        "CodRD": "D",
+        "MtReal": 1341749.18,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6574",
+        "Fonction": "91",
+        "CodRD": "D",
+        "MtReal": 191273.77,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6451",
+        "Fonction": "20",
+        "CodRD": "D",
+        "MtReal": 235639.15,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "6184",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 1006482,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "60613",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 285663.84,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "2157",
+        "Fonction": "21",
+        "CodRD": "D",
+        "MtReal": 1127296.86,
+        "Chapitre": "21",
+        "FI": "I"
+      },
+      {
+        "Nature": "6238",
+        "Fonction": "023",
+        "CodRD": "D",
+        "MtReal": 35000,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "204182",
+        "Fonction": "538",
+        "CodRD": "D",
+        "MtReal": 488000,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "6281",
+        "Fonction": "621",
+        "CodRD": "D",
+        "MtReal": 5700,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "74834",
+        "Fonction": "01",
+        "CodRD": "R",
+        "MtReal": 180422,
+        "Chapitre": "74",
+        "FI": "F"
+      },
+      {
+        "Nature": "6574",
+        "Fonction": "48",
+        "CodRD": "D",
+        "MtReal": 271365,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "204181",
+        "Fonction": "738",
+        "CodRD": "D",
+        "MtReal": 7500,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "6475",
+        "Fonction": "51",
+        "CodRD": "D",
+        "MtReal": 350,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "6336",
+        "Fonction": "621",
+        "CodRD": "D",
+        "MtReal": 147933.72,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "7588",
+        "Fonction": "0202",
+        "CodRD": "R",
+        "MtReal": 148501.86,
+        "Chapitre": "75",
+        "FI": "F"
+      },
+      {
+        "Nature": "64112",
+        "Fonction": "550",
+        "CodRD": "D",
+        "MtReal": 29424.23,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "761",
+        "Fonction": "93",
+        "CodRD": "R",
+        "MtReal": 752615.86,
+        "Chapitre": "76",
+        "FI": "F"
+      },
+      {
+        "Nature": "6161",
+        "Fonction": "51",
+        "CodRD": "D",
+        "MtReal": 3672.56,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "62268",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 412049.78,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "65738",
+        "Fonction": "32",
+        "CodRD": "D",
+        "MtReal": 1584,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "652411",
+        "Fonction": "51",
+        "CodRD": "D",
+        "MtReal": 5051528.64,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "7081",
+        "Fonction": "70",
+        "CodRD": "R",
+        "MtReal": 397.85,
+        "Chapitre": "70",
+        "FI": "F"
+      },
+      {
+        "Nature": "739261",
+        "Fonction": "01",
+        "CodRD": "D",
+        "MtReal": 39658290,
+        "Chapitre": "014",
+        "FI": "F"
+      },
+      {
+        "Nature": "7535",
+        "Fonction": "52",
+        "CodRD": "R",
+        "MtReal": 346606.62,
+        "Chapitre": "75",
+        "FI": "F"
+      },
+      {
+        "Nature": "651142",
+        "Fonction": "551",
+        "CodRD": "D",
+        "MtReal": 13075487.49,
+        "Chapitre": "016",
+        "FI": "F"
+      },
+      {
+        "Nature": "6225",
+        "Fonction": "566",
+        "CodRD": "D",
+        "MtReal": 918.3,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6574",
+        "Fonction": "312",
+        "CodRD": "D",
+        "MtReal": 190650,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "70841",
+        "Fonction": "0201",
+        "CodRD": "R",
+        "MtReal": 166899.68,
+        "Chapitre": "70",
+        "FI": "F"
+      },
+      {
+        "Nature": "6568",
+        "Fonction": "550",
+        "CodRD": "D",
+        "MtReal": 538491,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "2051",
+        "Fonction": "52",
+        "CodRD": "D",
+        "MtReal": 60671.05,
+        "Chapitre": "20",
+        "FI": "I"
+      },
+      {
+        "Nature": "60632",
+        "Fonction": "52",
+        "CodRD": "D",
+        "MtReal": 1111.41,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "637",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 44273.71,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "231351",
+        "Fonction": "50",
+        "CodRD": "D",
+        "MtReal": 210480.12,
+        "Chapitre": "23",
+        "FI": "I"
+      },
+      {
+        "Nature": "64121",
+        "Fonction": "51",
+        "CodRD": "D",
+        "MtReal": 20410446.51,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "2031",
+        "Fonction": "64",
+        "CodRD": "D",
+        "MtReal": 1706.4,
+        "Chapitre": "20",
+        "FI": "I"
+      },
+      {
+        "Nature": "651122",
+        "Fonction": "52",
+        "CodRD": "D",
+        "MtReal": 7797950.59,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6451",
+        "Fonction": "221",
+        "CodRD": "D",
+        "MtReal": 4207788.75,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "64111",
+        "Fonction": "30",
+        "CodRD": "D",
+        "MtReal": 7369754.36,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "6453",
+        "Fonction": "51",
+        "CodRD": "D",
+        "MtReal": 871452,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "6068",
+        "Fonction": "311",
+        "CodRD": "D",
+        "MtReal": 15429,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "673",
+        "Fonction": "41",
+        "CodRD": "D",
+        "MtReal": 184,
+        "Chapitre": "67",
+        "FI": "F"
+      },
+      {
+        "Nature": "231351",
+        "Fonction": "313",
+        "CodRD": "D",
+        "MtReal": 62894.48,
+        "Chapitre": "23",
+        "FI": "I"
+      },
+      {
+        "Nature": "204152",
+        "Fonction": "94",
+        "CodRD": "D",
+        "MtReal": 15488.68,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "6541",
+        "Fonction": "41",
+        "CodRD": "D",
+        "MtReal": 577.62,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "64111",
+        "Fonction": "0201",
+        "CodRD": "D",
+        "MtReal": 21292407.66,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "7081",
+        "Fonction": "0201",
+        "CodRD": "R",
+        "MtReal": 8635.9,
+        "Chapitre": "70",
+        "FI": "F"
+      },
+      {
+        "Nature": "62268",
+        "Fonction": "58",
+        "CodRD": "D",
+        "MtReal": 9900,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "1675",
+        "Fonction": "01",
+        "CodRD": "D",
+        "MtReal": 99606.6,
+        "Chapitre": "16",
+        "FI": "I"
+      },
+      {
+        "Nature": "74713",
+        "Fonction": "01",
+        "CodRD": "R",
+        "MtReal": 1401274.96,
+        "Chapitre": "74",
+        "FI": "F"
+      },
+      {
+        "Nature": "64118",
+        "Fonction": "40",
+        "CodRD": "D",
+        "MtReal": 1454673.82,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "2182",
+        "Fonction": "621",
+        "CodRD": "D",
+        "MtReal": 1598729.84,
+        "Chapitre": "21",
+        "FI": "I"
+      },
+      {
+        "Nature": "2185",
+        "Fonction": "221",
+        "CodRD": "D",
+        "MtReal": 197336.26,
+        "Chapitre": "21",
+        "FI": "I"
+      },
+      {
+        "Nature": "64118",
+        "Fonction": "621",
+        "CodRD": "D",
+        "MtReal": 4676205.29,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "6454",
+        "Fonction": "738",
+        "CodRD": "D",
+        "MtReal": 6231,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "6336",
+        "Fonction": "20",
+        "CodRD": "D",
+        "MtReal": 10949.28,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "615221",
+        "Fonction": "50",
+        "CodRD": "D",
+        "MtReal": 4170,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "65735",
+        "Fonction": "94",
+        "CodRD": "D",
+        "MtReal": 15000,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "60611",
+        "Fonction": "738",
+        "CodRD": "D",
+        "MtReal": 9052.24,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6188",
+        "Fonction": "51",
+        "CodRD": "D",
+        "MtReal": 650,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "20422",
+        "Fonction": "312",
+        "CodRD": "D",
+        "MtReal": 39226.7,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "6135",
+        "Fonction": "50",
+        "CodRD": "D",
+        "MtReal": 41711.76,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6453",
+        "Fonction": "041",
+        "CodRD": "D",
+        "MtReal": 58582.71,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "6135",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 58246.67,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6479",
+        "Fonction": "550",
+        "CodRD": "R",
+        "MtReal": 14379.6,
+        "Chapitre": "013",
+        "FI": "F"
+      },
+      {
+        "Nature": "6232",
+        "Fonction": "51",
+        "CodRD": "D",
+        "MtReal": 1376.7,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "2118",
+        "Fonction": "621",
+        "CodRD": "R",
+        "MtReal": 296,
+        "Chapitre": "21",
+        "FI": "I"
+      },
+      {
+        "Nature": "65542",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 6505731,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "21841",
+        "Fonction": "221",
+        "CodRD": "D",
+        "MtReal": 371742.4,
+        "Chapitre": "21",
+        "FI": "I"
+      },
+      {
+        "Nature": "6561",
+        "Fonction": "18",
+        "CodRD": "D",
+        "MtReal": 143319.54,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6454",
+        "Fonction": "30",
+        "CodRD": "D",
+        "MtReal": 37549.26,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "617",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 165297.72,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "752",
+        "Fonction": "50",
+        "CodRD": "R",
+        "MtReal": 88627.72,
+        "Chapitre": "75",
+        "FI": "F"
+      },
+      {
+        "Nature": "231351",
+        "Fonction": "315",
+        "CodRD": "D",
+        "MtReal": 247829.96,
+        "Chapitre": "23",
+        "FI": "I"
+      },
+      {
+        "Nature": "614",
+        "Fonction": "50",
+        "CodRD": "D",
+        "MtReal": 21978.32,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "752",
+        "Fonction": "0202",
+        "CodRD": "R",
+        "MtReal": 1336719.47,
+        "Chapitre": "75",
+        "FI": "F"
+      },
+      {
+        "Nature": "64131",
+        "Fonction": "52",
+        "CodRD": "D",
+        "MtReal": 526663.74,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "6542",
+        "Fonction": "567",
+        "CodRD": "D",
+        "MtReal": 39543.51,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "64113",
+        "Fonction": "40",
+        "CodRD": "D",
+        "MtReal": 116033.85,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "6168",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 61382.4,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6454",
+        "Fonction": "041",
+        "CodRD": "D",
+        "MtReal": 1641,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "20421",
+        "Fonction": "311",
+        "CodRD": "D",
+        "MtReal": 11376.86,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "6218",
+        "Fonction": "28",
+        "CodRD": "D",
+        "MtReal": 8209.3,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "6541",
+        "Fonction": "928",
+        "CodRD": "D",
+        "MtReal": 83.91,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6568",
+        "Fonction": "74",
+        "CodRD": "D",
+        "MtReal": 984500,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6064",
+        "Fonction": "315",
+        "CodRD": "D",
+        "MtReal": 3198.68,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "2033",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 267579.36,
+        "Chapitre": "20",
+        "FI": "I"
+      },
+      {
+        "Nature": "2111",
+        "Fonction": "621",
+        "CodRD": "D",
+        "MtReal": 245084.6,
+        "Chapitre": "21",
+        "FI": "I"
+      },
+      {
+        "Nature": "6251",
+        "Fonction": "048",
+        "CodRD": "D",
+        "MtReal": 1691.73,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "7718",
+        "Fonction": "311",
+        "CodRD": "R",
+        "MtReal": 659.86,
+        "Chapitre": "77",
+        "FI": "F"
+      },
+      {
+        "Nature": "73123",
+        "Fonction": "0202",
+        "CodRD": "R",
+        "MtReal": 31095793,
+        "Chapitre": "731",
+        "FI": "F"
+      },
+      {
+        "Nature": "6568",
+        "Fonction": "72",
+        "CodRD": "D",
+        "MtReal": 146000,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "204182",
+        "Fonction": "64",
+        "CodRD": "D",
+        "MtReal": 300000,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "6474",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 929368.75,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "6454",
+        "Fonction": "51",
+        "CodRD": "D",
+        "MtReal": 978965,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "6247",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 9805.42,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "615221",
+        "Fonction": "315",
+        "CodRD": "D",
+        "MtReal": 672.79,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6188",
+        "Fonction": "928",
+        "CodRD": "D",
+        "MtReal": 7549.67,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6227",
+        "Fonction": "928",
+        "CodRD": "D",
+        "MtReal": 77237.2,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "65738",
+        "Fonction": "18",
+        "CodRD": "D",
+        "MtReal": 54600,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "2182",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 153847.26,
+        "Chapitre": "21",
+        "FI": "I"
+      },
+      {
+        "Nature": "20421",
+        "Fonction": "538",
+        "CodRD": "D",
+        "MtReal": 37000,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "60636",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 83698.93,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6513",
+        "Fonction": "28",
+        "CodRD": "D",
+        "MtReal": 891600,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6541",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 2516.32,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "7718",
+        "Fonction": "313",
+        "CodRD": "R",
+        "MtReal": 27502,
+        "Chapitre": "77",
+        "FI": "F"
+      },
+      {
+        "Nature": "6711",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 18447.75,
+        "Chapitre": "67",
+        "FI": "F"
+      },
+      {
+        "Nature": "6574",
+        "Fonction": "30",
+        "CodRD": "D",
+        "MtReal": 737460,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "204142",
+        "Fonction": "18",
+        "CodRD": "D",
+        "MtReal": 34440,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "773",
+        "Fonction": "738",
+        "CodRD": "R",
+        "MtReal": 989.4,
+        "Chapitre": "77",
+        "FI": "F"
+      },
+      {
+        "Nature": "65172",
+        "Fonction": "567",
+        "CodRD": "D",
+        "MtReal": 28784579.4,
+        "Chapitre": "017",
+        "FI": "F"
+      },
+      {
+        "Nature": "2032",
+        "Fonction": "621",
+        "CodRD": "D",
+        "MtReal": 27000,
+        "Chapitre": "20",
+        "FI": "I"
+      },
+      {
+        "Nature": "6227",
+        "Fonction": "621",
+        "CodRD": "D",
+        "MtReal": 800,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "70878",
+        "Fonction": "821",
+        "CodRD": "R",
+        "MtReal": 261765.22,
+        "Chapitre": "70",
+        "FI": "F"
+      },
+      {
+        "Nature": "62268",
+        "Fonction": "30",
+        "CodRD": "D",
+        "MtReal": 26172,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6526",
+        "Fonction": "51",
+        "CodRD": "D",
+        "MtReal": 8107410,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6561",
+        "Fonction": "68",
+        "CodRD": "D",
+        "MtReal": 267623,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6245",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 19941.079999999998,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6531",
+        "Fonction": "021",
+        "CodRD": "D",
+        "MtReal": 2451751.44,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6419",
+        "Fonction": "021",
+        "CodRD": "R",
+        "MtReal": 6082.67,
+        "Chapitre": "013",
+        "FI": "F"
+      },
+      {
+        "Nature": "64131",
+        "Fonction": "566",
+        "CodRD": "D",
+        "MtReal": 431329.94,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "20421",
+        "Fonction": "91",
+        "CodRD": "D",
+        "MtReal": 14749.11,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "64128",
+        "Fonction": "51",
+        "CodRD": "D",
+        "MtReal": 53024.34,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "60632",
+        "Fonction": "32",
+        "CodRD": "D",
+        "MtReal": 22540.75,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6234",
+        "Fonction": "58",
+        "CodRD": "D",
+        "MtReal": 5239.99,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "74718",
+        "Fonction": "0202",
+        "CodRD": "R",
+        "MtReal": 323090.67,
+        "Chapitre": "74",
+        "FI": "F"
+      },
+      {
+        "Nature": "64131",
+        "Fonction": "738",
+        "CodRD": "D",
+        "MtReal": 126022.72,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "611",
+        "Fonction": "315",
+        "CodRD": "D",
+        "MtReal": 97000.83,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6453",
+        "Fonction": "0201",
+        "CodRD": "D",
+        "MtReal": 7344545.74,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "6234",
+        "Fonction": "41",
+        "CodRD": "D",
+        "MtReal": 4965.88,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6542",
+        "Fonction": "64",
+        "CodRD": "D",
+        "MtReal": 16234.79,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6456",
+        "Fonction": "0201",
+        "CodRD": "D",
+        "MtReal": 429494,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "6454",
+        "Fonction": "621",
+        "CodRD": "D",
+        "MtReal": 20002,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "1341",
+        "Fonction": "0202",
+        "CodRD": "R",
+        "MtReal": 1227081,
+        "Chapitre": "13",
+        "FI": "I"
+      },
+      {
+        "Nature": "6514",
+        "Fonction": "538",
+        "CodRD": "D",
+        "MtReal": 536544.09,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6453",
+        "Fonction": "70",
+        "CodRD": "D",
+        "MtReal": 579170.49,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "6542",
+        "Fonction": "52",
+        "CodRD": "D",
+        "MtReal": 954,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6245",
+        "Fonction": "50",
+        "CodRD": "D",
+        "MtReal": 314,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "62878",
+        "Fonction": "567",
+        "CodRD": "D",
+        "MtReal": 58276.6,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "60632",
+        "Fonction": "738",
+        "CodRD": "D",
+        "MtReal": 77453.01000000001,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6234",
+        "Fonction": "72",
+        "CodRD": "D",
+        "MtReal": 3235.48,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "673",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 247997.5,
+        "Chapitre": "67",
+        "FI": "F"
+      },
+      {
+        "Nature": "20422",
+        "Fonction": "61",
+        "CodRD": "D",
+        "MtReal": 19964.93,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "23152",
+        "Fonction": "52",
+        "CodRD": "D",
+        "MtReal": 742122.65,
+        "Chapitre": "23",
+        "FI": "I"
+      },
+      {
+        "Nature": "74788",
+        "Fonction": "538",
+        "CodRD": "R",
+        "MtReal": 3125583,
+        "Chapitre": "74",
+        "FI": "F"
+      },
+      {
+        "Nature": "7342",
+        "Fonction": "01",
+        "CodRD": "R",
+        "MtReal": 143913511.55,
+        "Chapitre": "73",
+        "FI": "F"
+      },
+      {
+        "Nature": "1324",
+        "Fonction": "52",
+        "CodRD": "R",
+        "MtReal": 50925,
+        "Chapitre": "13",
+        "FI": "I"
+      },
+      {
+        "Nature": "2031",
+        "Fonction": "18",
+        "CodRD": "D",
+        "MtReal": 20407.03,
+        "Chapitre": "20",
+        "FI": "I"
+      },
+      {
+        "Nature": "64113",
+        "Fonction": "566",
+        "CodRD": "D",
+        "MtReal": 48268.51,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "7718",
+        "Fonction": "041",
+        "CodRD": "R",
+        "MtReal": 1898.05,
+        "Chapitre": "77",
+        "FI": "F"
+      },
+      {
+        "Nature": "6225",
+        "Fonction": "50",
+        "CodRD": "D",
+        "MtReal": 152.4,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "27632",
+        "Fonction": "0202",
+        "CodRD": "R",
+        "MtReal": 805259,
+        "Chapitre": "27",
+        "FI": "I"
+      },
+      {
+        "Nature": "6236",
+        "Fonction": "311",
+        "CodRD": "D",
+        "MtReal": 4957.08,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6188",
+        "Fonction": "18",
+        "CodRD": "D",
+        "MtReal": 3389,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "64168",
+        "Fonction": "621",
+        "CodRD": "D",
+        "MtReal": 1497.34,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "73261",
+        "Fonction": "01",
+        "CodRD": "R",
+        "MtReal": 13107939,
+        "Chapitre": "73",
+        "FI": "F"
+      },
+      {
+        "Nature": "231351",
+        "Fonction": "311",
+        "CodRD": "D",
+        "MtReal": 7392.34,
+        "Chapitre": "23",
+        "FI": "I"
+      },
+      {
+        "Nature": "2181",
+        "Fonction": "50",
+        "CodRD": "D",
+        "MtReal": 86801.03,
+        "Chapitre": "21",
+        "FI": "I"
+      },
+      {
+        "Nature": "1322",
+        "Fonction": "621",
+        "CodRD": "R",
+        "MtReal": 240466.71,
+        "Chapitre": "13",
+        "FI": "I"
+      },
+      {
+        "Nature": "6247",
+        "Fonction": "738",
+        "CodRD": "D",
+        "MtReal": 7865,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "60632",
+        "Fonction": "312",
+        "CodRD": "D",
+        "MtReal": 1160.26,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "1322",
+        "Fonction": "52",
+        "CodRD": "R",
+        "MtReal": 675405.74,
+        "Chapitre": "13",
+        "FI": "I"
+      },
+      {
+        "Nature": "65735",
+        "Fonction": "738",
+        "CodRD": "D",
+        "MtReal": 283356.7,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6479",
+        "Fonction": "40",
+        "CodRD": "R",
+        "MtReal": 69537.28,
+        "Chapitre": "013",
+        "FI": "F"
+      },
+      {
+        "Nature": "65734",
+        "Fonction": "74",
+        "CodRD": "D",
+        "MtReal": 2500,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6251",
+        "Fonction": "61",
+        "CodRD": "D",
+        "MtReal": 66,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6541",
+        "Fonction": "51",
+        "CodRD": "D",
+        "MtReal": 3930,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "2312",
+        "Fonction": "738",
+        "CodRD": "D",
+        "MtReal": 2275274.83,
+        "Chapitre": "23",
+        "FI": "I"
+      },
+      {
+        "Nature": "6747",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 2110,
+        "Chapitre": "67",
+        "FI": "F"
+      },
+      {
+        "Nature": "6568",
+        "Fonction": "738",
+        "CodRD": "D",
+        "MtReal": 5200,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "64111",
+        "Fonction": "041",
+        "CodRD": "D",
+        "MtReal": 223243.52,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "2051",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 3243001.9800000004,
+        "Chapitre": "20",
+        "FI": "I"
+      },
+      {
+        "Nature": "7513",
+        "Fonction": "538",
+        "CodRD": "R",
+        "MtReal": 24463263.78,
+        "Chapitre": "75",
+        "FI": "F"
+      },
+      {
+        "Nature": "6065",
+        "Fonction": "313",
+        "CodRD": "D",
+        "MtReal": 45573.83,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "60632",
+        "Fonction": "58",
+        "CodRD": "D",
+        "MtReal": 64464.4,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6713",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 16000,
+        "Chapitre": "67",
+        "FI": "F"
+      },
+      {
+        "Nature": "773",
+        "Fonction": "550",
+        "CodRD": "R",
+        "MtReal": 2799383.86,
+        "Chapitre": "77",
+        "FI": "F"
+      },
+      {
+        "Nature": "21313",
+        "Fonction": "51",
+        "CodRD": "D",
+        "MtReal": 2281249.44,
+        "Chapitre": "21",
+        "FI": "I"
+      },
+      {
+        "Nature": "7475",
+        "Fonction": "538",
+        "CodRD": "R",
+        "MtReal": 34860.16,
+        "Chapitre": "74",
+        "FI": "F"
+      },
+      {
+        "Nature": "6281",
+        "Fonction": "023",
+        "CodRD": "D",
+        "MtReal": 950,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6336",
+        "Fonction": "51",
+        "CodRD": "D",
+        "MtReal": 183646.83,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "6568",
+        "Fonction": "52",
+        "CodRD": "D",
+        "MtReal": 915204.26,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6479",
+        "Fonction": "0201",
+        "CodRD": "R",
+        "MtReal": 23185.09,
+        "Chapitre": "013",
+        "FI": "F"
+      },
+      {
+        "Nature": "62268",
+        "Fonction": "41",
+        "CodRD": "D",
+        "MtReal": 31423.97,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "204152",
+        "Fonction": "93",
+        "CodRD": "D",
+        "MtReal": 8639000,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "204182",
+        "Fonction": "738",
+        "CodRD": "D",
+        "MtReal": 188149.68,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "6262",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 2183173,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "7067",
+        "Fonction": "52",
+        "CodRD": "R",
+        "MtReal": 17526,
+        "Chapitre": "70",
+        "FI": "F"
+      },
+      {
+        "Nature": "21848",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 662058.91,
+        "Chapitre": "21",
+        "FI": "I"
+      },
+      {
+        "Nature": "60622",
+        "Fonction": "621",
+        "CodRD": "D",
+        "MtReal": 1111386.31,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6574",
+        "Fonction": "564",
+        "CodRD": "D",
+        "MtReal": 4552327.350000001,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "64111",
+        "Fonction": "52",
+        "CodRD": "D",
+        "MtReal": 1889598.54,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "204182",
+        "Fonction": "61",
+        "CodRD": "D",
+        "MtReal": 16002.8,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "6281",
+        "Fonction": "738",
+        "CodRD": "D",
+        "MtReal": 7008.35,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6068",
+        "Fonction": "023",
+        "CodRD": "D",
+        "MtReal": 195254.78,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "62878",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 33636.78,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6568",
+        "Fonction": "311",
+        "CodRD": "D",
+        "MtReal": 17803.8,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "2188",
+        "Fonction": "51",
+        "CodRD": "D",
+        "MtReal": 20290,
+        "Chapitre": "21",
+        "FI": "I"
+      },
+      {
+        "Nature": "64168",
+        "Fonction": "0201",
+        "CodRD": "D",
+        "MtReal": 59467.2,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "7875",
+        "Fonction": "0202",
+        "CodRD": "R",
+        "MtReal": 618000,
+        "Chapitre": "78",
+        "FI": "F"
+      },
+      {
+        "Nature": "6188",
+        "Fonction": "28",
+        "CodRD": "D",
+        "MtReal": 226.44,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "60622",
+        "Fonction": "738",
+        "CodRD": "D",
+        "MtReal": 945.6,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "74783",
+        "Fonction": "567",
+        "CodRD": "R",
+        "MtReal": 10965188,
+        "Chapitre": "74",
+        "FI": "F"
+      },
+      {
+        "Nature": "20421",
+        "Fonction": "928",
+        "CodRD": "R",
+        "MtReal": 79.54,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "27635",
+        "Fonction": "91",
+        "CodRD": "R",
+        "MtReal": 240946.65,
+        "Chapitre": "27",
+        "FI": "I"
+      },
+      {
+        "Nature": "204142",
+        "Fonction": "90",
+        "CodRD": "D",
+        "MtReal": 1165605.65,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "6065",
+        "Fonction": "315",
+        "CodRD": "D",
+        "MtReal": 2759.96,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6282",
+        "Fonction": "221",
+        "CodRD": "D",
+        "MtReal": 4343.3,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "673",
+        "Fonction": "221",
+        "CodRD": "D",
+        "MtReal": 1849.16,
+        "Chapitre": "67",
+        "FI": "F"
+      },
+      {
+        "Nature": "204142",
+        "Fonction": "60",
+        "CodRD": "D",
+        "MtReal": 649996.94,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "6525",
+        "Fonction": "52",
+        "CodRD": "D",
+        "MtReal": 1543,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6568",
+        "Fonction": "93",
+        "CodRD": "D",
+        "MtReal": 105000,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6161",
+        "Fonction": "315",
+        "CodRD": "D",
+        "MtReal": 12482.9,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "62268",
+        "Fonction": "311",
+        "CodRD": "D",
+        "MtReal": 212421.24,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "204153",
+        "Fonction": "048",
+        "CodRD": "D",
+        "MtReal": 50000,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "7713",
+        "Fonction": "0202",
+        "CodRD": "R",
+        "MtReal": 5870.11,
+        "Chapitre": "77",
+        "FI": "F"
+      },
+      {
+        "Nature": "70878",
+        "Fonction": "81",
+        "CodRD": "R",
+        "MtReal": 37564.2,
+        "Chapitre": "70",
+        "FI": "F"
+      },
+      {
+        "Nature": "204141",
+        "Fonction": "90",
+        "CodRD": "D",
+        "MtReal": 70000,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "611",
+        "Fonction": "50",
+        "CodRD": "D",
+        "MtReal": 798763.06,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6451",
+        "Fonction": "40",
+        "CodRD": "D",
+        "MtReal": 1751654.54,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "6245",
+        "Fonction": "048",
+        "CodRD": "D",
+        "MtReal": 14074,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "673",
+        "Fonction": "567",
+        "CodRD": "D",
+        "MtReal": 48005.69,
+        "Chapitre": "67",
+        "FI": "F"
+      },
+      {
+        "Nature": "204141",
+        "Fonction": "738",
+        "CodRD": "D",
+        "MtReal": 97657.9,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "6156",
+        "Fonction": "738",
+        "CodRD": "D",
+        "MtReal": 1440,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6542",
+        "Fonction": "5471",
+        "CodRD": "D",
+        "MtReal": 2977.95,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "637",
+        "Fonction": "738",
+        "CodRD": "D",
+        "MtReal": 131,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "204142",
+        "Fonction": "928",
+        "CodRD": "D",
+        "MtReal": 256253.12,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "673",
+        "Fonction": "81",
+        "CodRD": "D",
+        "MtReal": 5465.25,
+        "Chapitre": "67",
+        "FI": "F"
+      },
+      {
+        "Nature": "6453",
+        "Fonction": "621",
+        "CodRD": "D",
+        "MtReal": 4860568.1,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "62268",
+        "Fonction": "93",
+        "CodRD": "D",
+        "MtReal": 20905.91,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "611",
+        "Fonction": "94",
+        "CodRD": "D",
+        "MtReal": 88931.3,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "65735",
+        "Fonction": "93",
+        "CodRD": "D",
+        "MtReal": 715000,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6417",
+        "Fonction": "40",
+        "CodRD": "D",
+        "MtReal": 730.26,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "2157",
+        "Fonction": "023",
+        "CodRD": "D",
+        "MtReal": 1292.49,
+        "Chapitre": "21",
+        "FI": "I"
+      },
+      {
+        "Nature": "60632",
+        "Fonction": "221",
+        "CodRD": "D",
+        "MtReal": 12403.27,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "2188",
+        "Fonction": "023",
+        "CodRD": "D",
+        "MtReal": 199669.09,
+        "Chapitre": "21",
+        "FI": "I"
+      },
+      {
+        "Nature": "6574",
+        "Fonction": "94",
+        "CodRD": "D",
+        "MtReal": 2206049.7,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6065",
+        "Fonction": "048",
+        "CodRD": "D",
+        "MtReal": 10480.43,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "60632",
+        "Fonction": "621",
+        "CodRD": "D",
+        "MtReal": 1090612.21,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "20421",
+        "Fonction": "61",
+        "CodRD": "D",
+        "MtReal": 43594.41,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "6556",
+        "Fonction": "52",
+        "CodRD": "D",
+        "MtReal": 78379,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "21848",
+        "Fonction": "315",
+        "CodRD": "D",
+        "MtReal": 42988.18,
+        "Chapitre": "21",
+        "FI": "I"
+      },
+      {
+        "Nature": "64113",
+        "Fonction": "550",
+        "CodRD": "D",
+        "MtReal": 46593.27,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "7088",
+        "Fonction": "315",
+        "CodRD": "R",
+        "MtReal": 16675.21,
+        "Chapitre": "70",
+        "FI": "F"
+      },
+      {
+        "Nature": "651123",
+        "Fonction": "52",
+        "CodRD": "D",
+        "MtReal": 100000,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "64112",
+        "Fonction": "40",
+        "CodRD": "D",
+        "MtReal": 119678.92,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "231351",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 3079910.3,
+        "Chapitre": "23",
+        "FI": "I"
+      },
+      {
+        "Nature": "64113",
+        "Fonction": "70",
+        "CodRD": "D",
+        "MtReal": 5269.51,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "62268",
+        "Fonction": "28",
+        "CodRD": "D",
+        "MtReal": 33320.28,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "678",
+        "Fonction": "221",
+        "CodRD": "D",
+        "MtReal": 83.29,
+        "Chapitre": "67",
+        "FI": "F"
+      },
+      {
+        "Nature": "6712",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 120,
+        "Chapitre": "67",
+        "FI": "F"
+      },
+      {
+        "Nature": "62261",
+        "Fonction": "928",
+        "CodRD": "D",
+        "MtReal": 52000,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "204182",
+        "Fonction": "74",
+        "CodRD": "D",
+        "MtReal": 37000,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "7474",
+        "Fonction": "738",
+        "CodRD": "R",
+        "MtReal": 373017.28,
+        "Chapitre": "74",
+        "FI": "F"
+      },
+      {
+        "Nature": "7081",
+        "Fonction": "50",
+        "CodRD": "R",
+        "MtReal": 2764.86,
+        "Chapitre": "70",
+        "FI": "F"
+      },
+      {
+        "Nature": "204142",
+        "Fonction": "74",
+        "CodRD": "D",
+        "MtReal": 690509.36,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "204162",
+        "Fonction": "921",
+        "CodRD": "D",
+        "MtReal": 85795.41,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "61558",
+        "Fonction": "621",
+        "CodRD": "D",
+        "MtReal": 39641.97,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6245",
+        "Fonction": "58",
+        "CodRD": "D",
+        "MtReal": 1744.69,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "64113",
+        "Fonction": "20",
+        "CodRD": "D",
+        "MtReal": 4287.85,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "64118",
+        "Fonction": "90",
+        "CodRD": "D",
+        "MtReal": 720081.18,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "6513",
+        "Fonction": "52",
+        "CodRD": "D",
+        "MtReal": 24133.91,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6336",
+        "Fonction": "738",
+        "CodRD": "D",
+        "MtReal": 6756.36,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "7472",
+        "Fonction": "0202",
+        "CodRD": "R",
+        "MtReal": 50474.42,
+        "Chapitre": "74",
+        "FI": "F"
+      },
+      {
+        "Nature": "65734",
+        "Fonction": "28",
+        "CodRD": "D",
+        "MtReal": 75249,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "64112",
+        "Fonction": "30",
+        "CodRD": "D",
+        "MtReal": 65589.32,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "204141",
+        "Fonction": "312",
+        "CodRD": "D",
+        "MtReal": 29651.7,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "6743",
+        "Fonction": "921",
+        "CodRD": "D",
+        "MtReal": 797388.51,
+        "Chapitre": "67",
+        "FI": "F"
+      },
+      {
+        "Nature": "6336",
+        "Fonction": "221",
+        "CodRD": "D",
+        "MtReal": 216907.15,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "652418",
+        "Fonction": "51",
+        "CodRD": "D",
+        "MtReal": 9900677.58,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "611",
+        "Fonction": "311",
+        "CodRD": "D",
+        "MtReal": 43132.63,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "7352",
+        "Fonction": "01",
+        "CodRD": "R",
+        "MtReal": 129642442.72,
+        "Chapitre": "73",
+        "FI": "F"
+      },
+      {
+        "Nature": "2188",
+        "Fonction": "32",
+        "CodRD": "D",
+        "MtReal": 9849.93,
+        "Chapitre": "21",
+        "FI": "I"
+      },
+      {
+        "Nature": "7788",
+        "Fonction": "023",
+        "CodRD": "R",
+        "MtReal": 7501.11,
+        "Chapitre": "77",
+        "FI": "F"
+      },
+      {
+        "Nature": "6574",
+        "Fonction": "61",
+        "CodRD": "D",
+        "MtReal": 6037.11,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "64111",
+        "Fonction": "566",
+        "CodRD": "D",
+        "MtReal": 2235360.94,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "65888",
+        "Fonction": "538",
+        "CodRD": "D",
+        "MtReal": 6949.29,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6182",
+        "Fonction": "311",
+        "CodRD": "D",
+        "MtReal": 52462.73,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6414",
+        "Fonction": "0201",
+        "CodRD": "D",
+        "MtReal": 10556.59,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "6453",
+        "Fonction": "30",
+        "CodRD": "D",
+        "MtReal": 2454213.55,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "7081",
+        "Fonction": "041",
+        "CodRD": "R",
+        "MtReal": 18.25,
+        "Chapitre": "70",
+        "FI": "F"
+      },
+      {
+        "Nature": "64112",
+        "Fonction": "621",
+        "CodRD": "D",
+        "MtReal": 180685.39,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "673",
+        "Fonction": "621",
+        "CodRD": "D",
+        "MtReal": 3347.6,
+        "Chapitre": "67",
+        "FI": "F"
+      },
+      {
+        "Nature": "611",
+        "Fonction": "41",
+        "CodRD": "D",
+        "MtReal": 75043.52,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "62268",
+        "Fonction": "01",
+        "CodRD": "D",
+        "MtReal": 35400,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "7081",
+        "Fonction": "90",
+        "CodRD": "R",
+        "MtReal": 434.35,
+        "Chapitre": "70",
+        "FI": "F"
+      },
+      {
+        "Nature": "60623",
+        "Fonction": "61",
+        "CodRD": "D",
+        "MtReal": 120,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "20422",
+        "Fonction": "538",
+        "CodRD": "D",
+        "MtReal": 49500,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "204142",
+        "Fonction": "731",
+        "CodRD": "D",
+        "MtReal": 38000,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "6454",
+        "Fonction": "90",
+        "CodRD": "D",
+        "MtReal": 8468,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "231312",
+        "Fonction": "221",
+        "CodRD": "R",
+        "MtReal": 46029.81,
+        "Chapitre": "23",
+        "FI": "I"
+      },
+      {
+        "Nature": "6568",
+        "Fonction": "71",
+        "CodRD": "D",
+        "MtReal": 2445141.97,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "21318",
+        "Fonction": "50",
+        "CodRD": "D",
+        "MtReal": 482559.36,
+        "Chapitre": "21",
+        "FI": "I"
+      },
+      {
+        "Nature": "637",
+        "Fonction": "621",
+        "CodRD": "D",
+        "MtReal": 3480,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "65734",
+        "Fonction": "58",
+        "CodRD": "D",
+        "MtReal": 302798.65,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6064",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 413783.69,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "16441",
+        "Fonction": "01",
+        "CodRD": "D",
+        "MtReal": 3913681.7,
+        "Chapitre": "16",
+        "FI": "I"
+      },
+      {
+        "Nature": "6574",
+        "Fonction": "70",
+        "CodRD": "D",
+        "MtReal": 18106,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "74832",
+        "Fonction": "01",
+        "CodRD": "R",
+        "MtReal": 23883082,
+        "Chapitre": "74",
+        "FI": "F"
+      },
+      {
+        "Nature": "74718",
+        "Fonction": "51",
+        "CodRD": "R",
+        "MtReal": 4819750,
+        "Chapitre": "74",
+        "FI": "F"
+      },
+      {
+        "Nature": "73114",
+        "Fonction": "01",
+        "CodRD": "R",
+        "MtReal": 9709334,
+        "Chapitre": "731",
+        "FI": "F"
+      },
+      {
+        "Nature": "204141",
+        "Fonction": "71",
+        "CodRD": "D",
+        "MtReal": 217823.44,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "20422",
+        "Fonction": "048",
+        "CodRD": "D",
+        "MtReal": 27055,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "6238",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 9960.91,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6068",
+        "Fonction": "51",
+        "CodRD": "D",
+        "MtReal": 1033.28,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "7718",
+        "Fonction": "048",
+        "CodRD": "R",
+        "MtReal": 7000,
+        "Chapitre": "77",
+        "FI": "F"
+      },
+      {
+        "Nature": "60632",
+        "Fonction": "315",
+        "CodRD": "D",
+        "MtReal": 7808.99,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "2031",
+        "Fonction": "221",
+        "CodRD": "D",
+        "MtReal": 3157074.01,
+        "Chapitre": "20",
+        "FI": "I"
+      },
+      {
+        "Nature": "23153",
+        "Fonction": "221",
+        "CodRD": "D",
+        "MtReal": 6254.43,
+        "Chapitre": "23",
+        "FI": "I"
+      },
+      {
+        "Nature": "204181",
+        "Fonction": "52",
+        "CodRD": "D",
+        "MtReal": 15000,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "60612",
+        "Fonction": "33",
+        "CodRD": "D",
+        "MtReal": 581.19,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "65738",
+        "Fonction": "52",
+        "CodRD": "D",
+        "MtReal": 2608740,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6556",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 40586.75,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "20422",
+        "Fonction": "72",
+        "CodRD": "D",
+        "MtReal": 5970364.39,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "62268",
+        "Fonction": "551",
+        "CodRD": "D",
+        "MtReal": 43109.64,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "62878",
+        "Fonction": "01",
+        "CodRD": "D",
+        "MtReal": 68978.92,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6336",
+        "Fonction": "90",
+        "CodRD": "D",
+        "MtReal": 27400.64,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "678",
+        "Fonction": "11",
+        "CodRD": "D",
+        "MtReal": 300103.61,
+        "Chapitre": "67",
+        "FI": "F"
+      },
+      {
+        "Nature": "6454",
+        "Fonction": "40",
+        "CodRD": "D",
+        "MtReal": 83797.34,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "65734",
+        "Fonction": "32",
+        "CodRD": "D",
+        "MtReal": 367856.5,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "16449",
+        "Fonction": "01",
+        "CodRD": "R",
+        "MtReal": 56075720.86,
+        "Chapitre": "16",
+        "FI": "I"
+      },
+      {
+        "Nature": "6453",
+        "Fonction": "52",
+        "CodRD": "D",
+        "MtReal": 653367.45,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "65738",
+        "Fonction": "048",
+        "CodRD": "D",
+        "MtReal": 14500,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6454",
+        "Fonction": "221",
+        "CodRD": "D",
+        "MtReal": 161937.5,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "6417",
+        "Fonction": "70",
+        "CodRD": "D",
+        "MtReal": 12165.35,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "204142",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 10025894,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "6068",
+        "Fonction": "738",
+        "CodRD": "D",
+        "MtReal": 25762.82,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6488",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 35424.03,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "7718",
+        "Fonction": "0201",
+        "CodRD": "R",
+        "MtReal": 110490,
+        "Chapitre": "77",
+        "FI": "F"
+      },
+      {
+        "Nature": "66112",
+        "Fonction": "01",
+        "CodRD": "D",
+        "MtReal": -112156.05,
+        "Chapitre": "66",
+        "FI": "F"
+      },
+      {
+        "Nature": "6227",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 42151.58,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6068",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 382294.11,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "65661",
+        "Fonction": "564",
+        "CodRD": "D",
+        "MtReal": 1645491.04,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "611",
+        "Fonction": "538",
+        "CodRD": "D",
+        "MtReal": 3840,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "21831",
+        "Fonction": "221",
+        "CodRD": "D",
+        "MtReal": 1269337.3,
+        "Chapitre": "21",
+        "FI": "I"
+      },
+      {
+        "Nature": "65738",
+        "Fonction": "94",
+        "CodRD": "D",
+        "MtReal": 25300,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "1324",
+        "Fonction": "18",
+        "CodRD": "R",
+        "MtReal": 34734.51,
+        "Chapitre": "13",
+        "FI": "I"
+      },
+      {
+        "Nature": "6336",
+        "Fonction": "40",
+        "CodRD": "D",
+        "MtReal": 85200.87,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "73112",
+        "Fonction": "01",
+        "CodRD": "R",
+        "MtReal": 90958136,
+        "Chapitre": "731",
+        "FI": "F"
+      },
+      {
+        "Nature": "6241",
+        "Fonction": "221",
+        "CodRD": "D",
+        "MtReal": 30036.6,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "61558",
+        "Fonction": "42",
+        "CodRD": "D",
+        "MtReal": 19837.67,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "65734",
+        "Fonction": "564",
+        "CodRD": "D",
+        "MtReal": 118594,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "74881",
+        "Fonction": "221",
+        "CodRD": "R",
+        "MtReal": 5079179.94,
+        "Chapitre": "74",
+        "FI": "F"
+      },
+      {
+        "Nature": "65734",
+        "Fonction": "313",
+        "CodRD": "D",
+        "MtReal": 274112,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "23153",
+        "Fonction": "64",
+        "CodRD": "D",
+        "MtReal": 43161.74,
+        "Chapitre": "23",
+        "FI": "I"
+      },
+      {
+        "Nature": "65737",
+        "Fonction": "311",
+        "CodRD": "D",
+        "MtReal": 302329.71,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "64131",
+        "Fonction": "90",
+        "CodRD": "D",
+        "MtReal": 180842.99,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "6541",
+        "Fonction": "538",
+        "CodRD": "D",
+        "MtReal": 86012.67,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "204152",
+        "Fonction": "738",
+        "CodRD": "D",
+        "MtReal": 44415.4,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "651141",
+        "Fonction": "551",
+        "CodRD": "D",
+        "MtReal": 73185738.18,
+        "Chapitre": "016",
+        "FI": "F"
+      },
+      {
+        "Nature": "204182",
+        "Fonction": "51",
+        "CodRD": "D",
+        "MtReal": 3274737.32,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "678",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 139044.82,
+        "Chapitre": "67",
+        "FI": "F"
+      },
+      {
+        "Nature": "775",
+        "Fonction": "52",
+        "CodRD": "R",
+        "MtReal": 77753.85,
+        "Chapitre": "77",
+        "FI": "F"
+      },
+      {
+        "Nature": "6453",
+        "Fonction": "738",
+        "CodRD": "D",
+        "MtReal": 181356.66,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "637",
+        "Fonction": "221",
+        "CodRD": "D",
+        "MtReal": 9057.33,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "673",
+        "Fonction": "52",
+        "CodRD": "D",
+        "MtReal": 57907.13,
+        "Chapitre": "67",
+        "FI": "F"
+      },
+      {
+        "Nature": "6541",
+        "Fonction": "541",
+        "CodRD": "D",
+        "MtReal": 3992.36,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6281",
+        "Fonction": "311",
+        "CodRD": "D",
+        "MtReal": 500,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6161",
+        "Fonction": "50",
+        "CodRD": "D",
+        "MtReal": 125642.77,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6414",
+        "Fonction": "621",
+        "CodRD": "D",
+        "MtReal": 7198.62,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "7718",
+        "Fonction": "023",
+        "CodRD": "R",
+        "MtReal": 2041.2,
+        "Chapitre": "77",
+        "FI": "F"
+      },
+      {
+        "Nature": "2031",
+        "Fonction": "21",
+        "CodRD": "R",
+        "MtReal": 2040,
+        "Chapitre": "20",
+        "FI": "I"
+      },
+      {
+        "Nature": "70323",
+        "Fonction": "738",
+        "CodRD": "R",
+        "MtReal": 14281.94,
+        "Chapitre": "70",
+        "FI": "F"
+      },
+      {
+        "Nature": "6542",
+        "Fonction": "41",
+        "CodRD": "D",
+        "MtReal": 74.06,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6064",
+        "Fonction": "311",
+        "CodRD": "D",
+        "MtReal": 23429.88,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "63512",
+        "Fonction": "51",
+        "CodRD": "D",
+        "MtReal": 514.16,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6245",
+        "Fonction": "738",
+        "CodRD": "D",
+        "MtReal": 5497.98,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "73111",
+        "Fonction": "01",
+        "CodRD": "R",
+        "MtReal": 342746778,
+        "Chapitre": "731",
+        "FI": "F"
+      },
+      {
+        "Nature": "62268",
+        "Fonction": "221",
+        "CodRD": "D",
+        "MtReal": 59582.45,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6227",
+        "Fonction": "538",
+        "CodRD": "D",
+        "MtReal": 4607.03,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6526",
+        "Fonction": "58",
+        "CodRD": "D",
+        "MtReal": 228000,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "7081",
+        "Fonction": "568",
+        "CodRD": "R",
+        "MtReal": 226.3,
+        "Chapitre": "70",
+        "FI": "F"
+      },
+      {
+        "Nature": "615231",
+        "Fonction": "621",
+        "CodRD": "D",
+        "MtReal": 5044243.81,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "61551",
+        "Fonction": "738",
+        "CodRD": "D",
+        "MtReal": 38,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "60632",
+        "Fonction": "311",
+        "CodRD": "D",
+        "MtReal": 22188.75,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "2764",
+        "Fonction": "91",
+        "CodRD": "D",
+        "MtReal": 40000,
+        "Chapitre": "27",
+        "FI": "I"
+      },
+      {
+        "Nature": "7083",
+        "Fonction": "0202",
+        "CodRD": "R",
+        "MtReal": 2117.75,
+        "Chapitre": "70",
+        "FI": "F"
+      },
+      {
+        "Nature": "6451",
+        "Fonction": "041",
+        "CodRD": "D",
+        "MtReal": 43273,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "65734",
+        "Fonction": "70",
+        "CodRD": "D",
+        "MtReal": 7878,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6574",
+        "Fonction": "74",
+        "CodRD": "D",
+        "MtReal": 84918.5,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "2157",
+        "Fonction": "738",
+        "CodRD": "D",
+        "MtReal": 39526.39,
+        "Chapitre": "21",
+        "FI": "I"
+      },
+      {
+        "Nature": "6451",
+        "Fonction": "30",
+        "CodRD": "D",
+        "MtReal": 1560728.64,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "651143",
+        "Fonction": "552",
+        "CodRD": "D",
+        "MtReal": 161079,
+        "Chapitre": "016",
+        "FI": "F"
+      },
+      {
+        "Nature": "7398",
+        "Fonction": "71",
+        "CodRD": "D",
+        "MtReal": 108495.62,
+        "Chapitre": "014",
+        "FI": "F"
+      },
+      {
+        "Nature": "6231",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 36906.229999999996,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6355",
+        "Fonction": "01",
+        "CodRD": "D",
+        "MtReal": 9206.42,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "739262",
+        "Fonction": "01",
+        "CodRD": "D",
+        "MtReal": 7931659,
+        "Chapitre": "014",
+        "FI": "F"
+      },
+      {
+        "Nature": "7411",
+        "Fonction": "01",
+        "CodRD": "R",
+        "MtReal": 95874565,
+        "Chapitre": "74",
+        "FI": "F"
+      },
+      {
+        "Nature": "6478",
+        "Fonction": "0201",
+        "CodRD": "D",
+        "MtReal": 2070101.2,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "6068",
+        "Fonction": "041",
+        "CodRD": "D",
+        "MtReal": 10647.74,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6336",
+        "Fonction": "041",
+        "CodRD": "D",
+        "MtReal": 2118.02,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "6156",
+        "Fonction": "52",
+        "CodRD": "D",
+        "MtReal": 4124.65,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6512",
+        "Fonction": "564",
+        "CodRD": "D",
+        "MtReal": 666459.23,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6718",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 458263.16,
+        "Chapitre": "67",
+        "FI": "F"
+      },
+      {
+        "Nature": "6512",
+        "Fonction": "58",
+        "CodRD": "D",
+        "MtReal": 1517163.11,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6568",
+        "Fonction": "532",
+        "CodRD": "D",
+        "MtReal": 2975977.25,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6156",
+        "Fonction": "221",
+        "CodRD": "D",
+        "MtReal": 100269.45,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "2312",
+        "Fonction": "738",
+        "CodRD": "R",
+        "MtReal": 39657,
+        "Chapitre": "23",
+        "FI": "I"
+      },
+      {
+        "Nature": "2031",
+        "Fonction": "621",
+        "CodRD": "D",
+        "MtReal": 1577629.34,
+        "Chapitre": "20",
+        "FI": "I"
+      },
+      {
+        "Nature": "6135",
+        "Fonction": "738",
+        "CodRD": "D",
+        "MtReal": 18311.65,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6236",
+        "Fonction": "928",
+        "CodRD": "D",
+        "MtReal": 194,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "20422",
+        "Fonction": "48",
+        "CodRD": "D",
+        "MtReal": 316800,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "70323",
+        "Fonction": "621",
+        "CodRD": "R",
+        "MtReal": 965242,
+        "Chapitre": "70",
+        "FI": "F"
+      },
+      {
+        "Nature": "64112",
+        "Fonction": "52",
+        "CodRD": "D",
+        "MtReal": 22415.13,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "6515",
+        "Fonction": "5471",
+        "CodRD": "D",
+        "MtReal": 116.81,
+        "Chapitre": "015",
+        "FI": "F"
+      },
+      {
+        "Nature": "6161",
+        "Fonction": "221",
+        "CodRD": "D",
+        "MtReal": 287978.99,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "7588",
+        "Fonction": "738",
+        "CodRD": "R",
+        "MtReal": 1.61,
+        "Chapitre": "75",
+        "FI": "F"
+      },
+      {
+        "Nature": "1323",
+        "Fonction": "621",
+        "CodRD": "R",
+        "MtReal": 222204.31,
+        "Chapitre": "13",
+        "FI": "I"
+      },
+      {
+        "Nature": "617",
+        "Fonction": "51",
+        "CodRD": "D",
+        "MtReal": 39240,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "204152",
+        "Fonction": "221",
+        "CodRD": "D",
+        "MtReal": 20838,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "61521",
+        "Fonction": "18",
+        "CodRD": "D",
+        "MtReal": 41540.880000000005,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6479",
+        "Fonction": "52",
+        "CodRD": "R",
+        "MtReal": 4309.28,
+        "Chapitre": "013",
+        "FI": "F"
+      },
+      {
+        "Nature": "7718",
+        "Fonction": "51",
+        "CodRD": "R",
+        "MtReal": 415000,
+        "Chapitre": "77",
+        "FI": "F"
+      },
+      {
+        "Nature": "66111",
+        "Fonction": "01",
+        "CodRD": "D",
+        "MtReal": 12995910.05,
+        "Chapitre": "66",
+        "FI": "F"
+      },
+      {
+        "Nature": "165",
+        "Fonction": "313",
+        "CodRD": "R",
+        "MtReal": 7336.46,
+        "Chapitre": "16",
+        "FI": "I"
+      },
+      {
+        "Nature": "6188",
+        "Fonction": "738",
+        "CodRD": "D",
+        "MtReal": 21254,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "611",
+        "Fonction": "52",
+        "CodRD": "D",
+        "MtReal": 46930.41,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "204141",
+        "Fonction": "313",
+        "CodRD": "D",
+        "MtReal": 160855.5,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "65737",
+        "Fonction": "33",
+        "CodRD": "D",
+        "MtReal": 11665,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "2051",
+        "Fonction": "021",
+        "CodRD": "D",
+        "MtReal": 4615.68,
+        "Chapitre": "20",
+        "FI": "I"
+      },
+      {
+        "Nature": "6574",
+        "Fonction": "041",
+        "CodRD": "D",
+        "MtReal": 2699908.13,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6574",
+        "Fonction": "538",
+        "CodRD": "D",
+        "MtReal": 663672,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "678",
+        "Fonction": "621",
+        "CodRD": "D",
+        "MtReal": 81865.96,
+        "Chapitre": "67",
+        "FI": "F"
+      },
+      {
+        "Nature": "70878",
+        "Fonction": "68",
+        "CodRD": "R",
+        "MtReal": 4000,
+        "Chapitre": "70",
+        "FI": "F"
+      },
+      {
+        "Nature": "6542",
+        "Fonction": "538",
+        "CodRD": "D",
+        "MtReal": 120000,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "70878",
+        "Fonction": "50",
+        "CodRD": "R",
+        "MtReal": 29652.17,
+        "Chapitre": "70",
+        "FI": "F"
+      },
+      {
+        "Nature": "617",
+        "Fonction": "50",
+        "CodRD": "D",
+        "MtReal": 156392.1,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "637",
+        "Fonction": "01",
+        "CodRD": "D",
+        "MtReal": 369.99,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "60611",
+        "Fonction": "64",
+        "CodRD": "D",
+        "MtReal": 123,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6568",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 584169.8,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "21313",
+        "Fonction": "40",
+        "CodRD": "D",
+        "MtReal": 12580274.92,
+        "Chapitre": "21",
+        "FI": "I"
+      },
+      {
+        "Nature": "2188",
+        "Fonction": "621",
+        "CodRD": "D",
+        "MtReal": 2113.29,
+        "Chapitre": "21",
+        "FI": "I"
+      },
+      {
+        "Nature": "65734",
+        "Fonction": "311",
+        "CodRD": "D",
+        "MtReal": 246301.52,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "62268",
+        "Fonction": "621",
+        "CodRD": "D",
+        "MtReal": 54511.74,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "231313",
+        "Fonction": "50",
+        "CodRD": "D",
+        "MtReal": 6834360.79,
+        "Chapitre": "23",
+        "FI": "I"
+      },
+      {
+        "Nature": "204152",
+        "Fonction": "91",
+        "CodRD": "D",
+        "MtReal": 1887683,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "6453",
+        "Fonction": "566",
+        "CodRD": "D",
+        "MtReal": 754796.28,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "6182",
+        "Fonction": "52",
+        "CodRD": "D",
+        "MtReal": 3800.99,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "21838",
+        "Fonction": "52",
+        "CodRD": "D",
+        "MtReal": 28923.6,
+        "Chapitre": "21",
+        "FI": "I"
+      },
+      {
+        "Nature": "6135",
+        "Fonction": "023",
+        "CodRD": "D",
+        "MtReal": 14459.37,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6227",
+        "Fonction": "567",
+        "CodRD": "D",
+        "MtReal": 3492,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "773",
+        "Fonction": "553",
+        "CodRD": "R",
+        "MtReal": 35821.55,
+        "Chapitre": "77",
+        "FI": "F"
+      },
+      {
+        "Nature": "617",
+        "Fonction": "731",
+        "CodRD": "D",
+        "MtReal": 18641.12,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6453",
+        "Fonction": "40",
+        "CodRD": "D",
+        "MtReal": 2327575.28,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "64131",
+        "Fonction": "50",
+        "CodRD": "D",
+        "MtReal": 4510100.33,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "2031",
+        "Fonction": "61",
+        "CodRD": "D",
+        "MtReal": 9802.05,
+        "Chapitre": "20",
+        "FI": "I"
+      },
+      {
+        "Nature": "6417",
+        "Fonction": "30",
+        "CodRD": "D",
+        "MtReal": 35151.1,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "6512",
+        "Fonction": "28",
+        "CodRD": "D",
+        "MtReal": 250395.04,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6453",
+        "Fonction": "50",
+        "CodRD": "D",
+        "MtReal": 8283199.02,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "7321",
+        "Fonction": "01",
+        "CodRD": "R",
+        "MtReal": 398357584.45,
+        "Chapitre": "73",
+        "FI": "F"
+      },
+      {
+        "Nature": "6574",
+        "Fonction": "28",
+        "CodRD": "D",
+        "MtReal": 111800,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "773",
+        "Fonction": "567",
+        "CodRD": "R",
+        "MtReal": 143.3,
+        "Chapitre": "77",
+        "FI": "F"
+      },
+      {
+        "Nature": "2157",
+        "Fonction": "621",
+        "CodRD": "D",
+        "MtReal": 570903.6,
+        "Chapitre": "21",
+        "FI": "I"
+      },
+      {
+        "Nature": "6713",
+        "Fonction": "311",
+        "CodRD": "D",
+        "MtReal": 19977.4,
+        "Chapitre": "67",
+        "FI": "F"
+      },
+      {
+        "Nature": "6417",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 384,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "65888",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 0.63,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "2182",
+        "Fonction": "738",
+        "CodRD": "D",
+        "MtReal": 171765.32,
+        "Chapitre": "21",
+        "FI": "I"
+      },
+      {
+        "Nature": "64112",
+        "Fonction": "221",
+        "CodRD": "D",
+        "MtReal": 151260.66,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "6453",
+        "Fonction": "550",
+        "CodRD": "D",
+        "MtReal": 1147773.34,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "20421",
+        "Fonction": "738",
+        "CodRD": "D",
+        "MtReal": 6600,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "651144",
+        "Fonction": "553",
+        "CodRD": "D",
+        "MtReal": 58645687.28,
+        "Chapitre": "016",
+        "FI": "F"
+      },
+      {
+        "Nature": "21848",
+        "Fonction": "621",
+        "CodRD": "D",
+        "MtReal": 62244.42,
+        "Chapitre": "21",
+        "FI": "I"
+      },
+      {
+        "Nature": "614",
+        "Fonction": "221",
+        "CodRD": "D",
+        "MtReal": 3979.5,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "615221",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 687533.19,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "65888",
+        "Fonction": "30",
+        "CodRD": "D",
+        "MtReal": 629.41,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6068",
+        "Fonction": "621",
+        "CodRD": "D",
+        "MtReal": 15052.91,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6281",
+        "Fonction": "94",
+        "CodRD": "D",
+        "MtReal": 45000,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6236",
+        "Fonction": "50",
+        "CodRD": "D",
+        "MtReal": 58448.77,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "773",
+        "Fonction": "52",
+        "CodRD": "R",
+        "MtReal": 801298.58,
+        "Chapitre": "77",
+        "FI": "F"
+      },
+      {
+        "Nature": "70878",
+        "Fonction": "0202",
+        "CodRD": "R",
+        "MtReal": 391161.78,
+        "Chapitre": "70",
+        "FI": "F"
+      },
+      {
+        "Nature": "6245",
+        "Fonction": "52",
+        "CodRD": "D",
+        "MtReal": 6608500,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6234",
+        "Fonction": "023",
+        "CodRD": "D",
+        "MtReal": 229582.2,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "75342",
+        "Fonction": "567",
+        "CodRD": "R",
+        "MtReal": 2348295.01,
+        "Chapitre": "017",
+        "FI": "F"
+      },
+      {
+        "Nature": "62878",
+        "Fonction": "52",
+        "CodRD": "D",
+        "MtReal": 6751.32,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "7512",
+        "Fonction": "51",
+        "CodRD": "R",
+        "MtReal": 497971.35,
+        "Chapitre": "75",
+        "FI": "F"
+      },
+      {
+        "Nature": "216",
+        "Fonction": "315",
+        "CodRD": "D",
+        "MtReal": 17643.04,
+        "Chapitre": "21",
+        "FI": "I"
+      },
+      {
+        "Nature": "6574",
+        "Fonction": "41",
+        "CodRD": "D",
+        "MtReal": 338893,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "60636",
+        "Fonction": "621",
+        "CodRD": "D",
+        "MtReal": 216131.56,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6419",
+        "Fonction": "52",
+        "CodRD": "R",
+        "MtReal": 1006.61,
+        "Chapitre": "013",
+        "FI": "F"
+      },
+      {
+        "Nature": "6454",
+        "Fonction": "566",
+        "CodRD": "D",
+        "MtReal": 20983,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "16311",
+        "Fonction": "01",
+        "CodRD": "R",
+        "MtReal": 10000000,
+        "Chapitre": "16",
+        "FI": "I"
+      },
+      {
+        "Nature": "65861",
+        "Fonction": "01",
+        "CodRD": "D",
+        "MtReal": 679962.45,
+        "Chapitre": "6586",
+        "FI": "F"
+      },
+      {
+        "Nature": "204152",
+        "Fonction": "738",
+        "CodRD": "R",
+        "MtReal": 201.6,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "6522",
+        "Fonction": "52",
+        "CodRD": "D",
+        "MtReal": 543400.66,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6747",
+        "Fonction": "0201",
+        "CodRD": "D",
+        "MtReal": 6128.18,
+        "Chapitre": "67",
+        "FI": "F"
+      },
+      {
+        "Nature": "652415",
+        "Fonction": "51",
+        "CodRD": "D",
+        "MtReal": 140078.02,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6188",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 285505.14,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "60631",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 219091.47,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "7081",
+        "Fonction": "30",
+        "CodRD": "R",
+        "MtReal": 1335.9,
+        "Chapitre": "70",
+        "FI": "F"
+      },
+      {
+        "Nature": "2118",
+        "Fonction": "52",
+        "CodRD": "D",
+        "MtReal": 420,
+        "Chapitre": "21",
+        "FI": "I"
+      },
+      {
+        "Nature": "61521",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 77840.62,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6251",
+        "Fonction": "550",
+        "CodRD": "D",
+        "MtReal": 26267.92,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6553",
+        "Fonction": "12",
+        "CodRD": "D",
+        "MtReal": 89116000,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6535",
+        "Fonction": "021",
+        "CodRD": "D",
+        "MtReal": 13244,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6188",
+        "Fonction": "041",
+        "CodRD": "D",
+        "MtReal": 73.75,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6182",
+        "Fonction": "315",
+        "CodRD": "D",
+        "MtReal": 9637.14,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "60668",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 5122.7,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "7473",
+        "Fonction": "564",
+        "CodRD": "R",
+        "MtReal": 99692.28,
+        "Chapitre": "74",
+        "FI": "F"
+      },
+      {
+        "Nature": "611",
+        "Fonction": "738",
+        "CodRD": "D",
+        "MtReal": 290911.67000000004,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "617",
+        "Fonction": "93",
+        "CodRD": "D",
+        "MtReal": 15840,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "65738",
+        "Fonction": "738",
+        "CodRD": "D",
+        "MtReal": 462921.81,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "65738",
+        "Fonction": "564",
+        "CodRD": "D",
+        "MtReal": 139850,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "773",
+        "Fonction": "551",
+        "CodRD": "R",
+        "MtReal": 66088.3,
+        "Chapitre": "77",
+        "FI": "F"
+      },
+      {
+        "Nature": "75343",
+        "Fonction": "567",
+        "CodRD": "R",
+        "MtReal": 181650.55,
+        "Chapitre": "017",
+        "FI": "F"
+      },
+      {
+        "Nature": "673",
+        "Fonction": "315",
+        "CodRD": "D",
+        "MtReal": 132,
+        "Chapitre": "67",
+        "FI": "F"
+      },
+      {
+        "Nature": "6541",
+        "Fonction": "567",
+        "CodRD": "D",
+        "MtReal": 601661.98,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6574",
+        "Fonction": "928",
+        "CodRD": "D",
+        "MtReal": 1278665.02,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "1328",
+        "Fonction": "621",
+        "CodRD": "R",
+        "MtReal": 222602.78,
+        "Chapitre": "13",
+        "FI": "I"
+      },
+      {
+        "Nature": "6747",
+        "Fonction": "567",
+        "CodRD": "D",
+        "MtReal": 196975.92,
+        "Chapitre": "67",
+        "FI": "F"
+      },
+      {
+        "Nature": "65242",
+        "Fonction": "52",
+        "CodRD": "D",
+        "MtReal": 136275267.68,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "62268",
+        "Fonction": "738",
+        "CodRD": "D",
+        "MtReal": 3244.5,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "2188",
+        "Fonction": "50",
+        "CodRD": "D",
+        "MtReal": 1276247.7799999998,
+        "Chapitre": "21",
+        "FI": "I"
+      },
+      {
+        "Nature": "2118",
+        "Fonction": "621",
+        "CodRD": "D",
+        "MtReal": 3439714.72,
+        "Chapitre": "21",
+        "FI": "I"
+      },
+      {
+        "Nature": "6568",
+        "Fonction": "221",
+        "CodRD": "D",
+        "MtReal": 76676.33,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6234",
+        "Fonction": "048",
+        "CodRD": "D",
+        "MtReal": 12140.52,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "611",
+        "Fonction": "621",
+        "CodRD": "D",
+        "MtReal": 112030.61,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6281",
+        "Fonction": "538",
+        "CodRD": "D",
+        "MtReal": 4200,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "23151",
+        "Fonction": "18",
+        "CodRD": "D",
+        "MtReal": 260446.47,
+        "Chapitre": "23",
+        "FI": "I"
+      },
+      {
+        "Nature": "231351",
+        "Fonction": "51",
+        "CodRD": "D",
+        "MtReal": 55993.54,
+        "Chapitre": "23",
+        "FI": "I"
+      },
+      {
+        "Nature": "70878",
+        "Fonction": "11",
+        "CodRD": "R",
+        "MtReal": 748,
+        "Chapitre": "70",
+        "FI": "F"
+      },
+      {
+        "Nature": "6281",
+        "Fonction": "928",
+        "CodRD": "D",
+        "MtReal": 7350,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6233",
+        "Fonction": "023",
+        "CodRD": "D",
+        "MtReal": 46539.4,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "65821",
+        "Fonction": "51",
+        "CodRD": "D",
+        "MtReal": 29111778.78,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "65737",
+        "Fonction": "41",
+        "CodRD": "D",
+        "MtReal": 289426,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "64118",
+        "Fonction": "52",
+        "CodRD": "D",
+        "MtReal": 463151.73,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "6288",
+        "Fonction": "221",
+        "CodRD": "D",
+        "MtReal": 127010,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6185",
+        "Fonction": "621",
+        "CodRD": "D",
+        "MtReal": 340.8,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "752",
+        "Fonction": "51",
+        "CodRD": "R",
+        "MtReal": 268,
+        "Chapitre": "75",
+        "FI": "F"
+      },
+      {
+        "Nature": "65737",
+        "Fonction": "048",
+        "CodRD": "D",
+        "MtReal": 24250,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6236",
+        "Fonction": "023",
+        "CodRD": "D",
+        "MtReal": 300611.8,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "20421",
+        "Fonction": "58",
+        "CodRD": "D",
+        "MtReal": 29790,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "20421",
+        "Fonction": "30",
+        "CodRD": "D",
+        "MtReal": 3658,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "6568",
+        "Fonction": "531",
+        "CodRD": "D",
+        "MtReal": 1445052,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6251",
+        "Fonction": "568",
+        "CodRD": "D",
+        "MtReal": 18123.51,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "60612",
+        "Fonction": "738",
+        "CodRD": "D",
+        "MtReal": 44601.07,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "773",
+        "Fonction": "51",
+        "CodRD": "R",
+        "MtReal": 4393.09,
+        "Chapitre": "77",
+        "FI": "F"
+      },
+      {
+        "Nature": "6451",
+        "Fonction": "566",
+        "CodRD": "D",
+        "MtReal": 544177,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "6451",
+        "Fonction": "50",
+        "CodRD": "D",
+        "MtReal": 5774802.23,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "165",
+        "Fonction": "50",
+        "CodRD": "R",
+        "MtReal": 105515.52,
+        "Chapitre": "16",
+        "FI": "I"
+      },
+      {
+        "Nature": "761",
+        "Fonction": "01",
+        "CodRD": "R",
+        "MtReal": 22.26,
+        "Chapitre": "76",
+        "FI": "F"
+      },
+      {
+        "Nature": "65738",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 4010,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "64113",
+        "Fonction": "52",
+        "CodRD": "D",
+        "MtReal": 22595.71,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "6451",
+        "Fonction": "550",
+        "CodRD": "D",
+        "MtReal": 786411.42,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "23153",
+        "Fonction": "50",
+        "CodRD": "D",
+        "MtReal": 26257.29,
+        "Chapitre": "23",
+        "FI": "I"
+      },
+      {
+        "Nature": "6454",
+        "Fonction": "0201",
+        "CodRD": "D",
+        "MtReal": 186879.58,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "6574",
+        "Fonction": "311",
+        "CodRD": "D",
+        "MtReal": 4737118.2,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6747",
+        "Fonction": "41",
+        "CodRD": "D",
+        "MtReal": 408.67,
+        "Chapitre": "67",
+        "FI": "F"
+      },
+      {
+        "Nature": "23153",
+        "Fonction": "18",
+        "CodRD": "D",
+        "MtReal": 189727.93,
+        "Chapitre": "23",
+        "FI": "I"
+      },
+      {
+        "Nature": "62268",
+        "Fonction": "18",
+        "CodRD": "D",
+        "MtReal": 18630,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "1345",
+        "Fonction": "621",
+        "CodRD": "R",
+        "MtReal": 1078700,
+        "Chapitre": "13",
+        "FI": "I"
+      },
+      {
+        "Nature": "6479",
+        "Fonction": "20",
+        "CodRD": "R",
+        "MtReal": 3214.48,
+        "Chapitre": "013",
+        "FI": "F"
+      },
+      {
+        "Nature": "6747",
+        "Fonction": "311",
+        "CodRD": "D",
+        "MtReal": 1050,
+        "Chapitre": "67",
+        "FI": "F"
+      },
+      {
+        "Nature": "617",
+        "Fonction": "18",
+        "CodRD": "D",
+        "MtReal": 69778,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "64112",
+        "Fonction": "041",
+        "CodRD": "D",
+        "MtReal": 49.88,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "6574",
+        "Fonction": "33",
+        "CodRD": "D",
+        "MtReal": 228889.5,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6132",
+        "Fonction": "40",
+        "CodRD": "D",
+        "MtReal": 568139.16,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6574",
+        "Fonction": "738",
+        "CodRD": "D",
+        "MtReal": 1136984.97,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6574",
+        "Fonction": "51",
+        "CodRD": "D",
+        "MtReal": 297520,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "2157",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 19800.12,
+        "Chapitre": "21",
+        "FI": "I"
+      },
+      {
+        "Nature": "6228",
+        "Fonction": "28",
+        "CodRD": "D",
+        "MtReal": 56291.09,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "231351",
+        "Fonction": "52",
+        "CodRD": "D",
+        "MtReal": 84937.45,
+        "Chapitre": "23",
+        "FI": "I"
+      },
+      {
+        "Nature": "70848",
+        "Fonction": "0202",
+        "CodRD": "R",
+        "MtReal": 4500,
+        "Chapitre": "70",
+        "FI": "F"
+      },
+      {
+        "Nature": "74835",
+        "Fonction": "01",
+        "CodRD": "R",
+        "MtReal": 7824582,
+        "Chapitre": "74",
+        "FI": "F"
+      },
+      {
+        "Nature": "64131",
+        "Fonction": "550",
+        "CodRD": "D",
+        "MtReal": 601266.5,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "2051",
+        "Fonction": "738",
+        "CodRD": "D",
+        "MtReal": 60550.4,
+        "Chapitre": "20",
+        "FI": "I"
+      },
+      {
+        "Nature": "2041781",
+        "Fonction": "12",
+        "CodRD": "D",
+        "MtReal": 1000000,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "20422",
+        "Fonction": "738",
+        "CodRD": "D",
+        "MtReal": 28501.25,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "2188",
+        "Fonction": "41",
+        "CodRD": "D",
+        "MtReal": 13385.03,
+        "Chapitre": "21",
+        "FI": "I"
+      },
+      {
+        "Nature": "744",
+        "Fonction": "01",
+        "CodRD": "R",
+        "MtReal": 755288.8,
+        "Chapitre": "74",
+        "FI": "F"
+      },
+      {
+        "Nature": "2748",
+        "Fonction": "01",
+        "CodRD": "D",
+        "MtReal": 317413,
+        "Chapitre": "27",
+        "FI": "I"
+      },
+      {
+        "Nature": "65734",
+        "Fonction": "738",
+        "CodRD": "D",
+        "MtReal": 752825.27,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "231351",
+        "Fonction": "738",
+        "CodRD": "D",
+        "MtReal": 308091.54,
+        "Chapitre": "23",
+        "FI": "I"
+      },
+      {
+        "Nature": "204142",
+        "Fonction": "61",
+        "CodRD": "D",
+        "MtReal": 5450828.17,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "7714",
+        "Fonction": "567",
+        "CodRD": "R",
+        "MtReal": 6602.52,
+        "Chapitre": "77",
+        "FI": "F"
+      },
+      {
+        "Nature": "6561",
+        "Fonction": "94",
+        "CodRD": "D",
+        "MtReal": 227500,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6568",
+        "Fonction": "538",
+        "CodRD": "D",
+        "MtReal": 604630,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "62268",
+        "Fonction": "91",
+        "CodRD": "D",
+        "MtReal": 3902.23,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "704",
+        "Fonction": "18",
+        "CodRD": "R",
+        "MtReal": 12260.05,
+        "Chapitre": "70",
+        "FI": "F"
+      },
+      {
+        "Nature": "7817",
+        "Fonction": "0202",
+        "CodRD": "R",
+        "MtReal": 300000,
+        "Chapitre": "78",
+        "FI": "F"
+      },
+      {
+        "Nature": "60632",
+        "Fonction": "28",
+        "CodRD": "D",
+        "MtReal": 384.98,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6241",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 130398,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6156",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 2686838.0300000003,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "7718",
+        "Fonction": "738",
+        "CodRD": "R",
+        "MtReal": 32617.49,
+        "Chapitre": "77",
+        "FI": "F"
+      },
+      {
+        "Nature": "7513",
+        "Fonction": "51",
+        "CodRD": "R",
+        "MtReal": 9452,
+        "Chapitre": "75",
+        "FI": "F"
+      },
+      {
+        "Nature": "62268",
+        "Fonction": "51",
+        "CodRD": "D",
+        "MtReal": 214819.5,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6255",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 31675.43,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "617",
+        "Fonction": "71",
+        "CodRD": "D",
+        "MtReal": 191364.6,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6747",
+        "Fonction": "52",
+        "CodRD": "D",
+        "MtReal": 26930.79,
+        "Chapitre": "67",
+        "FI": "F"
+      },
+      {
+        "Nature": "65734",
+        "Fonction": "51",
+        "CodRD": "D",
+        "MtReal": 64599.05,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6541",
+        "Fonction": "52",
+        "CodRD": "D",
+        "MtReal": 65167.43,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6454",
+        "Fonction": "550",
+        "CodRD": "D",
+        "MtReal": 29199.53,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "6234",
+        "Fonction": "61",
+        "CodRD": "D",
+        "MtReal": 5311.33,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6236",
+        "Fonction": "28",
+        "CodRD": "D",
+        "MtReal": 2634,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "62268",
+        "Fonction": "041",
+        "CodRD": "D",
+        "MtReal": 1275540.8,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6414",
+        "Fonction": "50",
+        "CodRD": "D",
+        "MtReal": 63328.62,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "775",
+        "Fonction": "0202",
+        "CodRD": "R",
+        "MtReal": 553966.53,
+        "Chapitre": "77",
+        "FI": "F"
+      },
+      {
+        "Nature": "6514",
+        "Fonction": "51",
+        "CodRD": "D",
+        "MtReal": 5407331.55,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "611",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 1728511.2000000002,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "65734",
+        "Fonction": "71",
+        "CodRD": "D",
+        "MtReal": 73612.5,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "7711",
+        "Fonction": "50",
+        "CodRD": "R",
+        "MtReal": 136000,
+        "Chapitre": "77",
+        "FI": "F"
+      },
+      {
+        "Nature": "65738",
+        "Fonction": "41",
+        "CodRD": "D",
+        "MtReal": 3000,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "21312",
+        "Fonction": "221",
+        "CodRD": "D",
+        "MtReal": 1464741.62,
+        "Chapitre": "21",
+        "FI": "I"
+      },
+      {
+        "Nature": "6188",
+        "Fonction": "33",
+        "CodRD": "D",
+        "MtReal": 2892,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6182",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 263967.65,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "20422",
+        "Fonction": "51",
+        "CodRD": "D",
+        "MtReal": 500000,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "61521",
+        "Fonction": "621",
+        "CodRD": "D",
+        "MtReal": 13326.71,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "204141",
+        "Fonction": "74",
+        "CodRD": "D",
+        "MtReal": 30939,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "60613",
+        "Fonction": "621",
+        "CodRD": "D",
+        "MtReal": 35499.91,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6747",
+        "Fonction": "50",
+        "CodRD": "D",
+        "MtReal": 136000,
+        "Chapitre": "67",
+        "FI": "F"
+      },
+      {
+        "Nature": "673",
+        "Fonction": "538",
+        "CodRD": "D",
+        "MtReal": 167066.44,
+        "Chapitre": "67",
+        "FI": "F"
+      },
+      {
+        "Nature": "6574",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 1715521,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "64118",
+        "Fonction": "550",
+        "CodRD": "D",
+        "MtReal": 685305.91,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "65734",
+        "Fonction": "61",
+        "CodRD": "D",
+        "MtReal": 6677,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6282",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 572847.41,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "231351",
+        "Fonction": "60",
+        "CodRD": "D",
+        "MtReal": 676298.12,
+        "Chapitre": "23",
+        "FI": "I"
+      },
+      {
+        "Nature": "64113",
+        "Fonction": "50",
+        "CodRD": "D",
+        "MtReal": 563658.11,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "6561",
+        "Fonction": "61",
+        "CodRD": "D",
+        "MtReal": 184016.79,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6479",
+        "Fonction": "221",
+        "CodRD": "R",
+        "MtReal": 209.76,
+        "Chapitre": "013",
+        "FI": "F"
+      },
+      {
+        "Nature": "64131",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 43145.78,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "6065",
+        "Fonction": "738",
+        "CodRD": "D",
+        "MtReal": 347.78,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "7482",
+        "Fonction": "01",
+        "CodRD": "R",
+        "MtReal": 168498,
+        "Chapitre": "74",
+        "FI": "F"
+      },
+      {
+        "Nature": "2314",
+        "Fonction": "738",
+        "CodRD": "D",
+        "MtReal": 394467.36,
+        "Chapitre": "23",
+        "FI": "I"
+      },
+      {
+        "Nature": "7788",
+        "Fonction": "621",
+        "CodRD": "R",
+        "MtReal": 4193.84,
+        "Chapitre": "77",
+        "FI": "F"
+      },
+      {
+        "Nature": "204181",
+        "Fonction": "61",
+        "CodRD": "D",
+        "MtReal": 954,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "65511",
+        "Fonction": "221",
+        "CodRD": "D",
+        "MtReal": 17377069.64,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6232",
+        "Fonction": "315",
+        "CodRD": "D",
+        "MtReal": 187.8,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6283",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 812738.8,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6068",
+        "Fonction": "33",
+        "CodRD": "D",
+        "MtReal": 12943.24,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "7472",
+        "Fonction": "621",
+        "CodRD": "R",
+        "MtReal": 60000,
+        "Chapitre": "74",
+        "FI": "F"
+      },
+      {
+        "Nature": "60661",
+        "Fonction": "58",
+        "CodRD": "D",
+        "MtReal": 66414.18,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "64118",
+        "Fonction": "30",
+        "CodRD": "D",
+        "MtReal": 1853923.9,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "64118",
+        "Fonction": "50",
+        "CodRD": "D",
+        "MtReal": 4878093.31,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "64131",
+        "Fonction": "40",
+        "CodRD": "D",
+        "MtReal": 1620773.34,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "773",
+        "Fonction": "564",
+        "CodRD": "R",
+        "MtReal": 526,
+        "Chapitre": "77",
+        "FI": "F"
+      },
+      {
+        "Nature": "6184",
+        "Fonction": "538",
+        "CodRD": "D",
+        "MtReal": 11075.15,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "7398",
+        "Fonction": "01",
+        "CodRD": "D",
+        "MtReal": 138865,
+        "Chapitre": "014",
+        "FI": "F"
+      },
+      {
+        "Nature": "2157",
+        "Fonction": "50",
+        "CodRD": "D",
+        "MtReal": 33259.53,
+        "Chapitre": "21",
+        "FI": "I"
+      },
+      {
+        "Nature": "65734",
+        "Fonction": "48",
+        "CodRD": "D",
+        "MtReal": 662533,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "62261",
+        "Fonction": "61",
+        "CodRD": "D",
+        "MtReal": 98651.48999999999,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "21838",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 1324848.12,
+        "Chapitre": "21",
+        "FI": "I"
+      },
+      {
+        "Nature": "64118",
+        "Fonction": "738",
+        "CodRD": "D",
+        "MtReal": 153211.33,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "7718",
+        "Fonction": "0202",
+        "CodRD": "R",
+        "MtReal": 1839336.08,
+        "Chapitre": "77",
+        "FI": "F"
+      },
+      {
+        "Nature": "7476",
+        "Fonction": "41",
+        "CodRD": "R",
+        "MtReal": 32135.58,
+        "Chapitre": "74",
+        "FI": "F"
+      },
+      {
+        "Nature": "65737",
+        "Fonction": "221",
+        "CodRD": "D",
+        "MtReal": 17748,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "761",
+        "Fonction": "0202",
+        "CodRD": "R",
+        "MtReal": 2286.6,
+        "Chapitre": "76",
+        "FI": "F"
+      },
+      {
+        "Nature": "6251",
+        "Fonction": "621",
+        "CodRD": "D",
+        "MtReal": 669928.52,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "204132",
+        "Fonction": "048",
+        "CodRD": "D",
+        "MtReal": 200000,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "7475",
+        "Fonction": "61",
+        "CodRD": "R",
+        "MtReal": 873163.62,
+        "Chapitre": "74",
+        "FI": "F"
+      },
+      {
+        "Nature": "6453",
+        "Fonction": "221",
+        "CodRD": "D",
+        "MtReal": 6416793.9,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "6419",
+        "Fonction": "0201",
+        "CodRD": "R",
+        "MtReal": 484540.09,
+        "Chapitre": "013",
+        "FI": "F"
+      },
+      {
+        "Nature": "2031",
+        "Fonction": "315",
+        "CodRD": "D",
+        "MtReal": 10138.99,
+        "Chapitre": "20",
+        "FI": "I"
+      },
+      {
+        "Nature": "2118",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 3664,
+        "Chapitre": "21",
+        "FI": "I"
+      },
+      {
+        "Nature": "64113",
+        "Fonction": "221",
+        "CodRD": "D",
+        "MtReal": 216720.68,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "6232",
+        "Fonction": "61",
+        "CodRD": "D",
+        "MtReal": 222,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6245",
+        "Fonction": "538",
+        "CodRD": "D",
+        "MtReal": 2637.2,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6132",
+        "Fonction": "023",
+        "CodRD": "D",
+        "MtReal": 43263.3,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "64118",
+        "Fonction": "70",
+        "CodRD": "D",
+        "MtReal": 642047.26,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "21838",
+        "Fonction": "221",
+        "CodRD": "D",
+        "MtReal": 434778.18,
+        "Chapitre": "21",
+        "FI": "I"
+      },
+      {
+        "Nature": "62261",
+        "Fonction": "41",
+        "CodRD": "D",
+        "MtReal": 357504.74,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6532",
+        "Fonction": "021",
+        "CodRD": "D",
+        "MtReal": 113522.53,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6188",
+        "Fonction": "58",
+        "CodRD": "D",
+        "MtReal": 211787.14,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "2188",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 180022.73,
+        "Chapitre": "21",
+        "FI": "I"
+      },
+      {
+        "Nature": "6419",
+        "Fonction": "221",
+        "CodRD": "R",
+        "MtReal": 207.32,
+        "Chapitre": "013",
+        "FI": "F"
+      },
+      {
+        "Nature": "60668",
+        "Fonction": "621",
+        "CodRD": "D",
+        "MtReal": 568.45,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6227",
+        "Fonction": "51",
+        "CodRD": "D",
+        "MtReal": 14454.83,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "73121",
+        "Fonction": "01",
+        "CodRD": "R",
+        "MtReal": 21718481,
+        "Chapitre": "731",
+        "FI": "F"
+      },
+      {
+        "Nature": "64131",
+        "Fonction": "0201",
+        "CodRD": "D",
+        "MtReal": 3952255.58,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "13278",
+        "Fonction": "61",
+        "CodRD": "R",
+        "MtReal": 42239.13,
+        "Chapitre": "13",
+        "FI": "I"
+      },
+      {
+        "Nature": "6475",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 21557.78,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "615221",
+        "Fonction": "738",
+        "CodRD": "D",
+        "MtReal": 24132.379999999997,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6281",
+        "Fonction": "18",
+        "CodRD": "D",
+        "MtReal": 55088,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "7478141",
+        "Fonction": "531",
+        "CodRD": "R",
+        "MtReal": 1412866.29,
+        "Chapitre": "74",
+        "FI": "F"
+      },
+      {
+        "Nature": "6288",
+        "Fonction": "621",
+        "CodRD": "D",
+        "MtReal": 8948.55,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "7088",
+        "Fonction": "61",
+        "CodRD": "R",
+        "MtReal": 78703.34,
+        "Chapitre": "70",
+        "FI": "F"
+      },
+      {
+        "Nature": "1322",
+        "Fonction": "821",
+        "CodRD": "D",
+        "MtReal": 359791.31,
+        "Chapitre": "13",
+        "FI": "I"
+      },
+      {
+        "Nature": "6281",
+        "Fonction": "048",
+        "CodRD": "D",
+        "MtReal": 2600,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "64112",
+        "Fonction": "0201",
+        "CodRD": "D",
+        "MtReal": 188907.91,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "73914",
+        "Fonction": "01",
+        "CodRD": "D",
+        "MtReal": 1871781,
+        "Chapitre": "014",
+        "FI": "F"
+      },
+      {
+        "Nature": "204142",
+        "Fonction": "313",
+        "CodRD": "D",
+        "MtReal": 567098.23,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "1321",
+        "Fonction": "72",
+        "CodRD": "R",
+        "MtReal": 2345030.75,
+        "Chapitre": "13",
+        "FI": "I"
+      },
+      {
+        "Nature": "6454",
+        "Fonction": "52",
+        "CodRD": "D",
+        "MtReal": 26637,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "204182",
+        "Fonction": "80",
+        "CodRD": "D",
+        "MtReal": 42750,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "65737",
+        "Fonction": "58",
+        "CodRD": "D",
+        "MtReal": 80698,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "62268",
+        "Fonction": "42",
+        "CodRD": "D",
+        "MtReal": 3000,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "70878",
+        "Fonction": "52",
+        "CodRD": "R",
+        "MtReal": 250578.48,
+        "Chapitre": "70",
+        "FI": "F"
+      },
+      {
+        "Nature": "6218",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 230228.79,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "64111",
+        "Fonction": "621",
+        "CodRD": "D",
+        "MtReal": 14412307.2,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "6451",
+        "Fonction": "52",
+        "CodRD": "D",
+        "MtReal": 520655,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "64112",
+        "Fonction": "50",
+        "CodRD": "D",
+        "MtReal": 301552.37,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "6068",
+        "Fonction": "28",
+        "CodRD": "D",
+        "MtReal": 1119.47,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "64168",
+        "Fonction": "30",
+        "CodRD": "D",
+        "MtReal": 25074.1,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "65737",
+        "Fonction": "94",
+        "CodRD": "D",
+        "MtReal": 12000,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6188",
+        "Fonction": "41",
+        "CodRD": "D",
+        "MtReal": 961,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "673",
+        "Fonction": "041",
+        "CodRD": "D",
+        "MtReal": 763.98,
+        "Chapitre": "67",
+        "FI": "F"
+      },
+      {
+        "Nature": "6688",
+        "Fonction": "01",
+        "CodRD": "D",
+        "MtReal": 1916860.99,
+        "Chapitre": "66",
+        "FI": "F"
+      },
+      {
+        "Nature": "6417",
+        "Fonction": "50",
+        "CodRD": "D",
+        "MtReal": 38901.77,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "1068",
+        "Fonction": "01",
+        "CodRD": "R",
+        "MtReal": 175088051.92,
+        "Chapitre": "10",
+        "FI": "I"
+      },
+      {
+        "Nature": "6574",
+        "Fonction": "221",
+        "CodRD": "D",
+        "MtReal": 22500,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "204152",
+        "Fonction": "64",
+        "CodRD": "D",
+        "MtReal": 1600000,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "64118",
+        "Fonction": "566",
+        "CodRD": "D",
+        "MtReal": 480633.02,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "6475",
+        "Fonction": "0201",
+        "CodRD": "D",
+        "MtReal": 217274.79,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "6453",
+        "Fonction": "568",
+        "CodRD": "D",
+        "MtReal": 21800,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "7718",
+        "Fonction": "58",
+        "CodRD": "R",
+        "MtReal": 10.18,
+        "Chapitre": "77",
+        "FI": "F"
+      },
+      {
+        "Nature": "74718",
+        "Fonction": "048",
+        "CodRD": "R",
+        "MtReal": 18018,
+        "Chapitre": "74",
+        "FI": "F"
+      },
+      {
+        "Nature": "6281",
+        "Fonction": "564",
+        "CodRD": "D",
+        "MtReal": 100,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "20422",
+        "Fonction": "731",
+        "CodRD": "D",
+        "MtReal": 93940.05,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "617",
+        "Fonction": "91",
+        "CodRD": "D",
+        "MtReal": 33180,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "275",
+        "Fonction": "01",
+        "CodRD": "D",
+        "MtReal": 7657.75,
+        "Chapitre": "27",
+        "FI": "I"
+      },
+      {
+        "Nature": "1326",
+        "Fonction": "738",
+        "CodRD": "R",
+        "MtReal": 91650.2,
+        "Chapitre": "13",
+        "FI": "I"
+      },
+      {
+        "Nature": "165",
+        "Fonction": "313",
+        "CodRD": "D",
+        "MtReal": 7336.46,
+        "Chapitre": "16",
+        "FI": "I"
+      },
+      {
+        "Nature": "6574",
+        "Fonction": "32",
+        "CodRD": "D",
+        "MtReal": 3523577,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "61558",
+        "Fonction": "61",
+        "CodRD": "D",
+        "MtReal": 675.86,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "7711",
+        "Fonction": "621",
+        "CodRD": "R",
+        "MtReal": 40138.96,
+        "Chapitre": "77",
+        "FI": "F"
+      },
+      {
+        "Nature": "6336",
+        "Fonction": "50",
+        "CodRD": "D",
+        "MtReal": 291498.15,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "6132",
+        "Fonction": "621",
+        "CodRD": "D",
+        "MtReal": 600,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6574",
+        "Fonction": "42",
+        "CodRD": "D",
+        "MtReal": 60000,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6188",
+        "Fonction": "311",
+        "CodRD": "D",
+        "MtReal": 3484.94,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "2031",
+        "Fonction": "738",
+        "CodRD": "D",
+        "MtReal": 86712.02,
+        "Chapitre": "20",
+        "FI": "I"
+      },
+      {
+        "Nature": "6234",
+        "Fonction": "93",
+        "CodRD": "D",
+        "MtReal": 274,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6574",
+        "Fonction": "20",
+        "CodRD": "D",
+        "MtReal": 578195,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6451",
+        "Fonction": "70",
+        "CodRD": "D",
+        "MtReal": 386368.79,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "6281",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 263104.08,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "70878",
+        "Fonction": "40",
+        "CodRD": "R",
+        "MtReal": 19750.55,
+        "Chapitre": "70",
+        "FI": "F"
+      },
+      {
+        "Nature": "6283",
+        "Fonction": "738",
+        "CodRD": "D",
+        "MtReal": 3777.29,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "204181",
+        "Fonction": "71",
+        "CodRD": "D",
+        "MtReal": 6542.2,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "204142",
+        "Fonction": "32",
+        "CodRD": "D",
+        "MtReal": 1612903,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "2031",
+        "Fonction": "20",
+        "CodRD": "D",
+        "MtReal": 514.44,
+        "Chapitre": "20",
+        "FI": "I"
+      },
+      {
+        "Nature": "231351",
+        "Fonction": "11",
+        "CodRD": "D",
+        "MtReal": 25169.4,
+        "Chapitre": "23",
+        "FI": "I"
+      },
+      {
+        "Nature": "6718",
+        "Fonction": "621",
+        "CodRD": "D",
+        "MtReal": 1104,
+        "Chapitre": "67",
+        "FI": "F"
+      },
+      {
+        "Nature": "617",
+        "Fonction": "023",
+        "CodRD": "D",
+        "MtReal": 84711.24,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6125",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 46257.36,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "611",
+        "Fonction": "821",
+        "CodRD": "D",
+        "MtReal": 166220.31,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "62261",
+        "Fonction": "42",
+        "CodRD": "D",
+        "MtReal": 496688.74,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6225",
+        "Fonction": "0201",
+        "CodRD": "D",
+        "MtReal": 1379.38,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6241",
+        "Fonction": "738",
+        "CodRD": "D",
+        "MtReal": 2160,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6479",
+        "Fonction": "041",
+        "CodRD": "R",
+        "MtReal": 382.72,
+        "Chapitre": "013",
+        "FI": "F"
+      },
+      {
+        "Nature": "74833",
+        "Fonction": "01",
+        "CodRD": "R",
+        "MtReal": 14798,
+        "Chapitre": "74",
+        "FI": "F"
+      },
+      {
+        "Nature": "611",
+        "Fonction": "221",
+        "CodRD": "D",
+        "MtReal": 408657.23,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6245",
+        "Fonction": "023",
+        "CodRD": "D",
+        "MtReal": 1737.67,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "2316",
+        "Fonction": "315",
+        "CodRD": "D",
+        "MtReal": 54969.28,
+        "Chapitre": "23",
+        "FI": "I"
+      },
+      {
+        "Nature": "60611",
+        "Fonction": "621",
+        "CodRD": "D",
+        "MtReal": 7082.5,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "20422",
+        "Fonction": "928",
+        "CodRD": "D",
+        "MtReal": 27555.5,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "615221",
+        "Fonction": "221",
+        "CodRD": "D",
+        "MtReal": 53469.98,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "7513",
+        "Fonction": "52",
+        "CodRD": "R",
+        "MtReal": 23060350.13,
+        "Chapitre": "75",
+        "FI": "F"
+      },
+      {
+        "Nature": "611",
+        "Fonction": "041",
+        "CodRD": "D",
+        "MtReal": 199200,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "773",
+        "Fonction": "532",
+        "CodRD": "R",
+        "MtReal": 27405,
+        "Chapitre": "77",
+        "FI": "F"
+      },
+      {
+        "Nature": "60612",
+        "Fonction": "64",
+        "CodRD": "D",
+        "MtReal": 1053.31,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "7472",
+        "Fonction": "52",
+        "CodRD": "R",
+        "MtReal": 899661.65,
+        "Chapitre": "74",
+        "FI": "F"
+      },
+      {
+        "Nature": "6236",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 29646.7,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "65735",
+        "Fonction": "311",
+        "CodRD": "D",
+        "MtReal": 26600,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6556",
+        "Fonction": "58",
+        "CodRD": "D",
+        "MtReal": 292883.06,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6514",
+        "Fonction": "564",
+        "CodRD": "D",
+        "MtReal": 793125.77,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6479",
+        "Fonction": "90",
+        "CodRD": "R",
+        "MtReal": 325.68,
+        "Chapitre": "013",
+        "FI": "F"
+      },
+      {
+        "Nature": "1641",
+        "Fonction": "01",
+        "CodRD": "R",
+        "MtReal": 40000000,
+        "Chapitre": "16",
+        "FI": "I"
+      },
+      {
+        "Nature": "204142",
+        "Fonction": "64",
+        "CodRD": "D",
+        "MtReal": 50695.92,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "7718",
+        "Fonction": "52",
+        "CodRD": "R",
+        "MtReal": 614766.61,
+        "Chapitre": "77",
+        "FI": "F"
+      },
+      {
+        "Nature": "204142",
+        "Fonction": "21",
+        "CodRD": "D",
+        "MtReal": 2181030.41,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "6288",
+        "Fonction": "023",
+        "CodRD": "D",
+        "MtReal": 156782.91,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "2031",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 114105.34,
+        "Chapitre": "20",
+        "FI": "I"
+      },
+      {
+        "Nature": "231351",
+        "Fonction": "0202",
+        "CodRD": "R",
+        "MtReal": 43404.54,
+        "Chapitre": "23",
+        "FI": "I"
+      },
+      {
+        "Nature": "6188",
+        "Fonction": "023",
+        "CodRD": "D",
+        "MtReal": 419393.63,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "2111",
+        "Fonction": "738",
+        "CodRD": "D",
+        "MtReal": 1028215.78,
+        "Chapitre": "21",
+        "FI": "I"
+      },
+      {
+        "Nature": "6479",
+        "Fonction": "30",
+        "CodRD": "R",
+        "MtReal": 48787.6,
+        "Chapitre": "013",
+        "FI": "F"
+      },
+      {
+        "Nature": "7588",
+        "Fonction": "621",
+        "CodRD": "R",
+        "MtReal": 6081.84,
+        "Chapitre": "75",
+        "FI": "F"
+      },
+      {
+        "Nature": "62268",
+        "Fonction": "564",
+        "CodRD": "D",
+        "MtReal": 84022.5,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6574",
+        "Fonction": "18",
+        "CodRD": "D",
+        "MtReal": 146792.8,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "65738",
+        "Fonction": "928",
+        "CodRD": "D",
+        "MtReal": 298223.5,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "60632",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 273155.32999999996,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "65734",
+        "Fonction": "20",
+        "CodRD": "D",
+        "MtReal": 31645,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6568",
+        "Fonction": "91",
+        "CodRD": "D",
+        "MtReal": 1311,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "65737",
+        "Fonction": "51",
+        "CodRD": "D",
+        "MtReal": 5800,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6182",
+        "Fonction": "621",
+        "CodRD": "D",
+        "MtReal": 1444.02,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "7353",
+        "Fonction": "01",
+        "CodRD": "R",
+        "MtReal": 1667152,
+        "Chapitre": "73",
+        "FI": "F"
+      },
+      {
+        "Nature": "20421",
+        "Fonction": "71",
+        "CodRD": "D",
+        "MtReal": 10499,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "61558",
+        "Fonction": "18",
+        "CodRD": "D",
+        "MtReal": 1253.45,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "617",
+        "Fonction": "538",
+        "CodRD": "D",
+        "MtReal": 29640,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6282",
+        "Fonction": "738",
+        "CodRD": "D",
+        "MtReal": 7316.43,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "62268",
+        "Fonction": "048",
+        "CodRD": "D",
+        "MtReal": 28500,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "23151",
+        "Fonction": "621",
+        "CodRD": "D",
+        "MtReal": 37101056.25,
+        "Chapitre": "23",
+        "FI": "I"
+      },
+      {
+        "Nature": "61551",
+        "Fonction": "621",
+        "CodRD": "D",
+        "MtReal": 276183.04,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6574",
+        "Fonction": "021",
+        "CodRD": "D",
+        "MtReal": 266740,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "673",
+        "Fonction": "51",
+        "CodRD": "D",
+        "MtReal": 809.28,
+        "Chapitre": "67",
+        "FI": "F"
+      },
+      {
+        "Nature": "204142",
+        "Fonction": "628",
+        "CodRD": "D",
+        "MtReal": 1037690.31,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "6068",
+        "Fonction": "58",
+        "CodRD": "D",
+        "MtReal": 8295.46,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "617",
+        "Fonction": "564",
+        "CodRD": "D",
+        "MtReal": 108000,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "2181",
+        "Fonction": "023",
+        "CodRD": "D",
+        "MtReal": 1326,
+        "Chapitre": "21",
+        "FI": "I"
+      },
+      {
+        "Nature": "7711",
+        "Fonction": "221",
+        "CodRD": "R",
+        "MtReal": 6300,
+        "Chapitre": "77",
+        "FI": "F"
+      },
+      {
+        "Nature": "64118",
+        "Fonction": "0201",
+        "CodRD": "D",
+        "MtReal": 5838814.01,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "6417",
+        "Fonction": "0201",
+        "CodRD": "D",
+        "MtReal": 128866.97,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "63512",
+        "Fonction": "50",
+        "CodRD": "D",
+        "MtReal": 11623.27,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "65738",
+        "Fonction": "72",
+        "CodRD": "D",
+        "MtReal": 37500,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6065",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 22929.86,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "2031",
+        "Fonction": "50",
+        "CodRD": "D",
+        "MtReal": 343891.87,
+        "Chapitre": "20",
+        "FI": "I"
+      },
+      {
+        "Nature": "2157",
+        "Fonction": "221",
+        "CodRD": "D",
+        "MtReal": 163512.75,
+        "Chapitre": "21",
+        "FI": "I"
+      },
+      {
+        "Nature": "2051",
+        "Fonction": "221",
+        "CodRD": "D",
+        "MtReal": 690721.41,
+        "Chapitre": "20",
+        "FI": "I"
+      },
+      {
+        "Nature": "7322",
+        "Fonction": "01",
+        "CodRD": "R",
+        "MtReal": 2295134.42,
+        "Chapitre": "73",
+        "FI": "F"
+      },
+      {
+        "Nature": "6568",
+        "Fonction": "41",
+        "CodRD": "D",
+        "MtReal": 17760,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6188",
+        "Fonction": "048",
+        "CodRD": "D",
+        "MtReal": 4065,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "65171",
+        "Fonction": "567",
+        "CodRD": "D",
+        "MtReal": 215852570.31,
+        "Chapitre": "017",
+        "FI": "F"
+      },
+      {
+        "Nature": "2185",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 224545.51,
+        "Chapitre": "21",
+        "FI": "I"
+      },
+      {
+        "Nature": "23153",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 23115.96,
+        "Chapitre": "23",
+        "FI": "I"
+      },
+      {
+        "Nature": "6568",
+        "Fonction": "51",
+        "CodRD": "D",
+        "MtReal": 56225.45,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "64113",
+        "Fonction": "90",
+        "CodRD": "D",
+        "MtReal": 7964.13,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "6451",
+        "Fonction": "51",
+        "CodRD": "D",
+        "MtReal": 6466800,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "678",
+        "Fonction": "315",
+        "CodRD": "D",
+        "MtReal": 147,
+        "Chapitre": "67",
+        "FI": "F"
+      },
+      {
+        "Nature": "611",
+        "Fonction": "64",
+        "CodRD": "D",
+        "MtReal": 6130.47,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "611",
+        "Fonction": "81",
+        "CodRD": "D",
+        "MtReal": 30079.16,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "204141",
+        "Fonction": "21",
+        "CodRD": "D",
+        "MtReal": 182556.22,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "204141",
+        "Fonction": "93",
+        "CodRD": "D",
+        "MtReal": 10630,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "204112",
+        "Fonction": "312",
+        "CodRD": "D",
+        "MtReal": 150000,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "7476",
+        "Fonction": "48",
+        "CodRD": "R",
+        "MtReal": 10258,
+        "Chapitre": "74",
+        "FI": "F"
+      },
+      {
+        "Nature": "1641",
+        "Fonction": "01",
+        "CodRD": "D",
+        "MtReal": 60809926.67,
+        "Chapitre": "16",
+        "FI": "I"
+      },
+      {
+        "Nature": "2031",
+        "Fonction": "72",
+        "CodRD": "D",
+        "MtReal": 14973.34,
+        "Chapitre": "20",
+        "FI": "I"
+      },
+      {
+        "Nature": "775",
+        "Fonction": "621",
+        "CodRD": "R",
+        "MtReal": 368419.6,
+        "Chapitre": "77",
+        "FI": "F"
+      },
+      {
+        "Nature": "64168",
+        "Fonction": "50",
+        "CodRD": "D",
+        "MtReal": 67284.87,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "7476",
+        "Fonction": "538",
+        "CodRD": "R",
+        "MtReal": 2500,
+        "Chapitre": "74",
+        "FI": "F"
+      },
+      {
+        "Nature": "7474",
+        "Fonction": "61",
+        "CodRD": "R",
+        "MtReal": 84846.9,
+        "Chapitre": "74",
+        "FI": "F"
+      },
+      {
+        "Nature": "6161",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 439380.92,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "60636",
+        "Fonction": "738",
+        "CodRD": "D",
+        "MtReal": 4793.53,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "62878",
+        "Fonction": "538",
+        "CodRD": "D",
+        "MtReal": 10496.43,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "23151",
+        "Fonction": "52",
+        "CodRD": "R",
+        "MtReal": 4788,
+        "Chapitre": "23",
+        "FI": "I"
+      },
+      {
+        "Nature": "1672",
+        "Fonction": "01",
+        "CodRD": "D",
+        "MtReal": 1733.17,
+        "Chapitre": "16",
+        "FI": "I"
+      },
+      {
+        "Nature": "74888",
+        "Fonction": "0201",
+        "CodRD": "R",
+        "MtReal": 101528.93,
+        "Chapitre": "74",
+        "FI": "F"
+      },
+      {
+        "Nature": "204142",
+        "Fonction": "48",
+        "CodRD": "D",
+        "MtReal": 162586.2,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "20421",
+        "Fonction": "91",
+        "CodRD": "R",
+        "MtReal": 1320000,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "60613",
+        "Fonction": "738",
+        "CodRD": "D",
+        "MtReal": 27118.57,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "61551",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 61517,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "61558",
+        "Fonction": "738",
+        "CodRD": "D",
+        "MtReal": 22895.32,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "64111",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 824824.54,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "64131",
+        "Fonction": "221",
+        "CodRD": "D",
+        "MtReal": 3437062.93,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "60611",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 151561.66,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "231351",
+        "Fonction": "621",
+        "CodRD": "D",
+        "MtReal": 291733.39,
+        "Chapitre": "23",
+        "FI": "I"
+      },
+      {
+        "Nature": "20421",
+        "Fonction": "93",
+        "CodRD": "D",
+        "MtReal": 52873.97,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "6188",
+        "Fonction": "50",
+        "CodRD": "D",
+        "MtReal": 426,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6747",
+        "Fonction": "551",
+        "CodRD": "D",
+        "MtReal": 6028.76,
+        "Chapitre": "67",
+        "FI": "F"
+      },
+      {
+        "Nature": "617",
+        "Fonction": "221",
+        "CodRD": "D",
+        "MtReal": 51588.64,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "65738",
+        "Fonction": "58",
+        "CodRD": "D",
+        "MtReal": 154200,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "7351",
+        "Fonction": "01",
+        "CodRD": "R",
+        "MtReal": 17633719.41,
+        "Chapitre": "73",
+        "FI": "F"
+      },
+      {
+        "Nature": "6261",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 730508.79,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "7788",
+        "Fonction": "0201",
+        "CodRD": "R",
+        "MtReal": 29875.54,
+        "Chapitre": "77",
+        "FI": "F"
+      },
+      {
+        "Nature": "6479",
+        "Fonction": "70",
+        "CodRD": "R",
+        "MtReal": 553.84,
+        "Chapitre": "013",
+        "FI": "F"
+      },
+      {
+        "Nature": "2188",
+        "Fonction": "315",
+        "CodRD": "D",
+        "MtReal": 108866.64,
+        "Chapitre": "21",
+        "FI": "I"
+      },
+      {
+        "Nature": "611",
+        "Fonction": "72",
+        "CodRD": "D",
+        "MtReal": 131511.42,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6713",
+        "Fonction": "28",
+        "CodRD": "D",
+        "MtReal": 1500,
+        "Chapitre": "67",
+        "FI": "F"
+      },
+      {
+        "Nature": "2041722",
+        "Fonction": "51",
+        "CodRD": "D",
+        "MtReal": 1000000,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "6419",
+        "Fonction": "0202",
+        "CodRD": "R",
+        "MtReal": 1071.23,
+        "Chapitre": "013",
+        "FI": "F"
+      },
+      {
+        "Nature": "23153",
+        "Fonction": "33",
+        "CodRD": "D",
+        "MtReal": 372.24,
+        "Chapitre": "23",
+        "FI": "I"
+      },
+      {
+        "Nature": "21848",
+        "Fonction": "311",
+        "CodRD": "D",
+        "MtReal": 521.9,
+        "Chapitre": "21",
+        "FI": "I"
+      },
+      {
+        "Nature": "2031",
+        "Fonction": "311",
+        "CodRD": "D",
+        "MtReal": 69017.77,
+        "Chapitre": "20",
+        "FI": "I"
+      },
+      {
+        "Nature": "2157",
+        "Fonction": "61",
+        "CodRD": "D",
+        "MtReal": 14621.76,
+        "Chapitre": "21",
+        "FI": "I"
+      },
+      {
+        "Nature": "60623",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 10511.84,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "627",
+        "Fonction": "01",
+        "CodRD": "D",
+        "MtReal": 131900.47,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "261",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 5000,
+        "Chapitre": "26",
+        "FI": "I"
+      },
+      {
+        "Nature": "20421",
+        "Fonction": "32",
+        "CodRD": "D",
+        "MtReal": 111272.49,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "6225",
+        "Fonction": "52",
+        "CodRD": "D",
+        "MtReal": 6629.63,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "204182",
+        "Fonction": "94",
+        "CodRD": "D",
+        "MtReal": 15121.34,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "204131",
+        "Fonction": "33",
+        "CodRD": "D",
+        "MtReal": 720980,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "7788",
+        "Fonction": "91",
+        "CodRD": "R",
+        "MtReal": 112230.46,
+        "Chapitre": "77",
+        "FI": "F"
+      },
+      {
+        "Nature": "7718",
+        "Fonction": "221",
+        "CodRD": "R",
+        "MtReal": 3336.17,
+        "Chapitre": "77",
+        "FI": "F"
+      },
+      {
+        "Nature": "2041781",
+        "Fonction": "928",
+        "CodRD": "D",
+        "MtReal": 4900,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "2111",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 550216,
+        "Chapitre": "21",
+        "FI": "I"
+      },
+      {
+        "Nature": "6574",
+        "Fonction": "52",
+        "CodRD": "D",
+        "MtReal": 44307,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "60632",
+        "Fonction": "023",
+        "CodRD": "D",
+        "MtReal": 12995.91,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6261",
+        "Fonction": "52",
+        "CodRD": "D",
+        "MtReal": 146720.53,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "64118",
+        "Fonction": "20",
+        "CodRD": "D",
+        "MtReal": 194808.02,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "6251",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 1123213.49,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6414",
+        "Fonction": "30",
+        "CodRD": "D",
+        "MtReal": 2211.16,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "6135",
+        "Fonction": "221",
+        "CodRD": "D",
+        "MtReal": 299030.97,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "70321",
+        "Fonction": "821",
+        "CodRD": "R",
+        "MtReal": 36181.37,
+        "Chapitre": "70",
+        "FI": "F"
+      },
+      {
+        "Nature": "65243",
+        "Fonction": "538",
+        "CodRD": "D",
+        "MtReal": 44034145.2,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6479",
+        "Fonction": "738",
+        "CodRD": "R",
+        "MtReal": 4959.72,
+        "Chapitre": "013",
+        "FI": "F"
+      },
+      {
+        "Nature": "204112",
+        "Fonction": "738",
+        "CodRD": "D",
+        "MtReal": 39900,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "60612",
+        "Fonction": "621",
+        "CodRD": "D",
+        "MtReal": 36147.82,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6232",
+        "Fonction": "023",
+        "CodRD": "D",
+        "MtReal": 295.2,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6245",
+        "Fonction": "28",
+        "CodRD": "D",
+        "MtReal": 55307.05,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "23151",
+        "Fonction": "52",
+        "CodRD": "D",
+        "MtReal": 40591.52,
+        "Chapitre": "23",
+        "FI": "I"
+      },
+      {
+        "Nature": "747811",
+        "Fonction": "550",
+        "CodRD": "R",
+        "MtReal": 52536441.02,
+        "Chapitre": "016",
+        "FI": "F"
+      },
+      {
+        "Nature": "204142",
+        "Fonction": "33",
+        "CodRD": "D",
+        "MtReal": 68701.04,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "6185",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 27121.13,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "60632",
+        "Fonction": "048",
+        "CodRD": "D",
+        "MtReal": 5174.99,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "64131",
+        "Fonction": "30",
+        "CodRD": "D",
+        "MtReal": 766576.8,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "6542",
+        "Fonction": "51",
+        "CodRD": "D",
+        "MtReal": 280,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6414",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 184,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "6514",
+        "Fonction": "52",
+        "CodRD": "D",
+        "MtReal": 269385.13,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6227",
+        "Fonction": "41",
+        "CodRD": "D",
+        "MtReal": 315315.95,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6718",
+        "Fonction": "61",
+        "CodRD": "D",
+        "MtReal": 2245.47,
+        "Chapitre": "67",
+        "FI": "F"
+      },
+      {
+        "Nature": "62268",
+        "Fonction": "64",
+        "CodRD": "D",
+        "MtReal": 2845.55,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "204141",
+        "Fonction": "64",
+        "CodRD": "D",
+        "MtReal": 11232,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "60631",
+        "Fonction": "621",
+        "CodRD": "D",
+        "MtReal": 4261.63,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "231351",
+        "Fonction": "221",
+        "CodRD": "D",
+        "MtReal": 10240096.049999999,
+        "Chapitre": "23",
+        "FI": "I"
+      },
+      {
+        "Nature": "204152",
+        "Fonction": "61",
+        "CodRD": "D",
+        "MtReal": 538,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "6236",
+        "Fonction": "315",
+        "CodRD": "D",
+        "MtReal": 9792.63,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6184",
+        "Fonction": "51",
+        "CodRD": "D",
+        "MtReal": 355859.12,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "204182",
+        "Fonction": "72",
+        "CodRD": "D",
+        "MtReal": 3570084.8,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "6479",
+        "Fonction": "50",
+        "CodRD": "R",
+        "MtReal": 275391.91,
+        "Chapitre": "013",
+        "FI": "F"
+      },
+      {
+        "Nature": "204152",
+        "Fonction": "71",
+        "CodRD": "D",
+        "MtReal": 529806.75,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "74778",
+        "Fonction": "928",
+        "CodRD": "R",
+        "MtReal": 72217.57,
+        "Chapitre": "74",
+        "FI": "F"
+      },
+      {
+        "Nature": "62268",
+        "Fonction": "61",
+        "CodRD": "D",
+        "MtReal": 52992.850000000006,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "627",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 1128.02,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "64131",
+        "Fonction": "621",
+        "CodRD": "D",
+        "MtReal": 420419.85,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "6251",
+        "Fonction": "51",
+        "CodRD": "D",
+        "MtReal": 1558968.6199999999,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "65734",
+        "Fonction": "33",
+        "CodRD": "D",
+        "MtReal": 139289,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "64112",
+        "Fonction": "90",
+        "CodRD": "D",
+        "MtReal": 20208.39,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "204152",
+        "Fonction": "71",
+        "CodRD": "R",
+        "MtReal": 484559.37,
+        "Chapitre": "204",
+        "FI": "I"
+      },
+      {
+        "Nature": "65737",
+        "Fonction": "32",
+        "CodRD": "D",
+        "MtReal": 11306,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6068",
+        "Fonction": "315",
+        "CodRD": "D",
+        "MtReal": 4266.74,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "62878",
+        "Fonction": "50",
+        "CodRD": "D",
+        "MtReal": 622981.05,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "65737",
+        "Fonction": "564",
+        "CodRD": "D",
+        "MtReal": 416587.5,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "7511",
+        "Fonction": "51",
+        "CodRD": "R",
+        "MtReal": 620783.9,
+        "Chapitre": "75",
+        "FI": "F"
+      },
+      {
+        "Nature": "673",
+        "Fonction": "64",
+        "CodRD": "D",
+        "MtReal": 152.25,
+        "Chapitre": "67",
+        "FI": "F"
+      },
+      {
+        "Nature": "6245",
+        "Fonction": "621",
+        "CodRD": "D",
+        "MtReal": 943.22,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "651123",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 13725,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "60612",
+        "Fonction": "0202",
+        "CodRD": "D",
+        "MtReal": 1305210.81,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "21313",
+        "Fonction": "50",
+        "CodRD": "D",
+        "MtReal": 98186.83,
+        "Chapitre": "21",
+        "FI": "I"
+      },
+      {
+        "Nature": "231351",
+        "Fonction": "221",
+        "CodRD": "R",
+        "MtReal": 13582.75,
+        "Chapitre": "23",
+        "FI": "I"
+      },
+      {
+        "Nature": "64113",
+        "Fonction": "738",
+        "CodRD": "D",
+        "MtReal": 1115.28,
+        "Chapitre": "012",
+        "FI": "F"
+      },
+      {
+        "Nature": "6355",
+        "Fonction": "738",
+        "CodRD": "D",
+        "MtReal": 193.76,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6747",
+        "Fonction": "621",
+        "CodRD": "D",
+        "MtReal": 6034.73,
+        "Chapitre": "67",
+        "FI": "F"
+      },
+      {
+        "Nature": "1328",
+        "Fonction": "61",
+        "CodRD": "R",
+        "MtReal": 123443.27,
+        "Chapitre": "13",
+        "FI": "I"
+      },
+      {
+        "Nature": "62268",
+        "Fonction": "72",
+        "CodRD": "D",
+        "MtReal": 33852,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "60632",
+        "Fonction": "61",
+        "CodRD": "D",
+        "MtReal": 6785.43,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "6568",
+        "Fonction": "48",
+        "CodRD": "D",
+        "MtReal": 64000,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6288",
+        "Fonction": "311",
+        "CodRD": "D",
+        "MtReal": 2828,
+        "Chapitre": "011",
+        "FI": "F"
+      },
+      {
+        "Nature": "70872",
+        "Fonction": "0202",
+        "CodRD": "R",
+        "MtReal": 34519.74,
+        "Chapitre": "70",
+        "FI": "F"
+      },
+      {
+        "Nature": "6523",
+        "Fonction": "51",
+        "CodRD": "D",
+        "MtReal": 50992.26,
+        "Chapitre": "65",
+        "FI": "F"
+      },
+      {
+        "Nature": "6453",
+        "Fonction": "90",
+        "CodRD": "D",
+        "MtReal": 855739.04,
+        "Chapitre": "012",
+        "FI": "F"
+      }
+    ]
   }
 ]
